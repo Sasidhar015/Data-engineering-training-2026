@@ -237,14 +237,15 @@ HAVING COUNT(a.appointment_id) > 1;
 
 
 -- Q14. Specialization with the highest total consultation value
-SELECT TOP 1
+SELECT 
     d.specialization,
     SUM(d.consultation_fee) AS total_consultation_value
 FROM appointments a
 INNER JOIN doctors d
     ON a.doctor_id = d.doctor_id
 GROUP BY d.specialization
-ORDER BY total_consultation_value DESC;
+ORDER BY total_consultation_value DESC
+LIMIT 1;
 
 -- Q15. Every patient with number of appointments, including zero
 SELECT
@@ -312,7 +313,7 @@ WHERE a.status = 'Completed';
 
 
 -- Q20. Doctor with the highest number of completed appointments
-SELECT TOP 1
+SELECT 
     d.doctor_id,
     d.doctor_name,
     COUNT(a.appointment_id) AS completed_appointments
@@ -323,4 +324,5 @@ WHERE a.status = 'Completed'
 GROUP BY
     d.doctor_id,
     d.doctor_name
-ORDER BY completed_appointments DESC;
+ORDER BY completed_appointments DESC
+LIMIT 1;
