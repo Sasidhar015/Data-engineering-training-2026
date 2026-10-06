@@ -181,6 +181,8 @@ SELECT
     a.appointment_date,
     a.status
 FROM appointments a
+LEFT JOIN doctors d
+    ON d.doctor_id = a.doctor_id
 WHERE a.doctor_id IS NULL;
 
 
