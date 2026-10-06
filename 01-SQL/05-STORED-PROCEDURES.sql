@@ -171,6 +171,5 @@ DELIMITER ;
 CALL DeleteAccount(108);
 
 
-
 -- 13. VIEW FINAL ACCOUNT DATA
 SELECT * FROM accounts;
