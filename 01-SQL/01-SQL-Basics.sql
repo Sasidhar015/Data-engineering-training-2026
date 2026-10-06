@@ -1,6 +1,3 @@
--- Data Engineering Training 2026
--- SQL Basics Practice
-
 -- 1. CREATE DATABASE
 CREATE DATABASE training_db;
 USE training_db;
