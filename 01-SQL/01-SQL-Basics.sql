@@ -1,6 +1,33 @@
 -- Data Engineering Training 2026
 -- SQL Basics Practice
 
+-- 1. CREATE DATABASE
+CREATE DATABASE training_db;
+USE training_db;
+
+-- 2. CREATE EMPLOYEES TABLE
+CREATE TABLE employees (
+    employee_id INT PRIMARY KEY,
+    employee_name VARCHAR(100),
+    department VARCHAR(50),
+    salary DECIMAL(10,2),
+    city VARCHAR(50)
+);
+
+
+-- 3. INSERT SAMPLE DATA
+INSERT INTO employees
+(employee_id, employee_name, department, salary, city)
+VALUES
+(101, 'Arun Kumar', 'IT', 60000, 'Hyderabad'),
+(102, 'Meera Shah', 'HR', 45000, 'Mumbai'),
+(103, 'Ravi Reddy', 'IT', 75000, 'Hyderabad'),
+(104, 'Priya Nair', 'Finance', 55000, 'Bangalore'),
+(105, 'Sameer Khan', 'IT', 80000, 'Pune'),
+(106, 'Neha Gupta', 'HR', 40000, 'Delhi'),
+(107, 'Vikram Rao', 'Finance', 65000, 'Hyderabad'),
+(108, 'Anjali Singh', 'IT', 50000, NULL);
+
 -- 1. Select all records
 SELECT *
 FROM employees;
