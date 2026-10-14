@@ -532,3 +532,369 @@ db.products.find({ price: { $type: "string" } });
 db.products.updateOne({ product_id: 110 }, [{ $set: { price: { $toDouble: "$price" } } }]);
 
 
+
+
+
+
+
+
+
+// PART - 2 
+
+
+db.createCollection("customers")
+
+db.customers.insertMany([
+      { customer_id: 501, customer_name: "Aditya Rao", email: "aditya@email.com", active: true, address: { city: "Hyderabad", state: "Telangana", pincode: "500081" }, interests: ["Electronics", "Accessories"] },
+      { customer_id: 502, customer_name: "Maya Thomas", email: "maya@email.com", active: true, address: { city: "Chennai", state: "Tamil Nadu", pincode: "600028" }, interests: ["Furniture", "Home"] },
+      { customer_id: 503, customer_name: "Faisal Ahmed", email: "faisal@email.com", active: false, address: { city: "Hyderabad", state: "Telangana", pincode: "500034" }, interests: ["Electronics"] },
+      { customer_id: 504, customer_name: "Nikita Shah", email: "nikita@email.com", active: true, address: { city: "Mumbai", state: "Maharashtra", pincode: "400050" }, interests: ["Furniture", "Electronics"] }
+  ]);
+
+
+
+
+// Q53. Display all customers.
+db.customers.find();
+
+
+// Q54. Find active customers.
+db.customers.find({ active: true });
+
+
+// Q55. Find customers from Hyderabad.
+db.customers.find({ "address.city": "Hyderabad" });
+
+
+// Q56. Find customers interested in Electronics.
+db.customers.find({ interests: "Electronics" });
+
+
+// Q57. Find customers interested in both Furniture and Electronics.
+db.customers.find({ interests: { $all: ["Furniture", "Electronics"] } });
+
+
+// Q58. Change customer 503 from inactive to active.
+db.customers.updateOne({ customer_id: 503 }, { $set: { active: true } });
+
+
+// Q59. Change customer 504's city to Pune.
+db.customers.updateOne({ customer_id: 504 }, { $set: { "address.city": "Pune" } });
+
+
+// Q60. Add a new interest to customer 502 .
+db.customers.updateOne({ customer_id: 502 }, { $addToSet: { interests: "Electronics" } });
+
+
+
+
+
+
+
+
+// PART - 3
+
+
+db.createCollection("orders")
+
+db.orders.insertMany([
+{
+order_id: 9001,
+customer_id: 501,
+order_date: ISODate("2026-09-01"),
+
+status: "Delivered",
+items: [
+{
+product: "Ultra Laptop",
+quantity: 1,
+price: 72000
+},
+{
+product: "Wireless Mouse",
+quantity: 2,
+price: 2000
+}
+]
+},
+{
+order_id: 9002,
+customer_id: 502,
+order_date: ISODate("2026-09-03"),
+status: "Processing",
+items: [
+{
+product: "Office Desk",
+quantity: 1,
+price: 14500
+}
+]
+},
+{
+order_id: 9003,
+customer_id: 503,
+order_date: ISODate("2026-09-05"),
+status: "Delivered",
+items: [
+{
+product: "Smart Monitor",
+quantity: 2,
+price: 26000
+},
+{
+product: "Mechanical Keyboard",
+quantity: 1,
+price: 5200
+}
+]
+
+}
+])
+
+
+
+
+// Q61. Display orders having status Delivered.
+db.orders.find({ status: "Delivered" });
+
+
+// Q62. Find orders containing Ultra Laptop.
+db.orders.find({ "items.product": "Ultra Laptop" });
+
+
+// Q63. Find orders containing an item with quantity greater than 1.
+db.orders.find({ "items.quantity": { $gt: 1 } });
+
+
+// Q64. Find orders where the same item has product = Smart Monitor AND quantity = 2.
+db.orders.find({ items: { $elemMatch: { product: "Smart Monitor", quantity: 2 } } });
+
+
+// Q65. Add another item to order 9002.
+db.orders.updateOne({ order_id: 9002 }, { $push: { items: { product: "Wireless Mouse", quantity: 2, price: 2000 } } });
+
+
+// Q66. Change order 9002 status to Delivered.
+db.orders.updateOne({ order_id: 9002 }, { $set: { status: "Delivered" } });
+
+
+// Q67. Remove one item from an order.
+db.orders.updateOne({ order_id: 9002 }, { $pull: { items: { product: "Office Desk" } } });
+
+
+
+
+
+
+
+
+
+
+// PART - 4 
+
+
+// Q68. Product can have five colors.
+// Array
+// Reason: A product can have multiple colors, so we can store them in a single array. colors: ["Red", "Blue", "Black"]....
+
+
+
+// Q69. Customer has one residential address.
+// Embedded Document
+// Reason: An address contains different fields like city, state and pincode, so we can keep them together.
+
+
+
+// Q70. Order contains multiple products.
+// Array of Embedded Documents
+// Reason: Each order can contain different products with their quantities and prices.
+
+
+
+// Q71. Product has RAM, storage and processor information.
+// Embedded Document
+// Reason: All these details belong to one product, so we can store them together.
+
+
+
+// Q72. Customer can have thousands of orders over many years.
+// Separate Collection / Reference
+// Reason: Storing thousands of orders inside one customer document makes it too large, so separate orders are better.
+
+
+
+// Q73. Product can have millions of customer reviews.
+// Separate Collection / Reference
+// Reason: Millions of reviews would make the product document too large, so reviews should be stored separately.
+
+
+
+// Q74. Employee has first name and last name.
+// Simple Field
+// Reason: First name and last name are individual values, so we can store them as normal fields.
+
+
+
+// Q75. Product has multiple tags.
+// Array
+// Reason: A product can have several tags, so an array is an easy way to store them.
+
+
+
+
+
+
+
+
+
+
+
+
+// PART = 5
+
+
+db.suppliers.insertMany([
+  {
+    supplier_id: "SUP001",
+    supplier_name: "Ravi Traders",
+    city: "Chennai",
+    active: true,
+    categories_supplied: ["Electronics", "Home Appliances"],
+    contact: {
+      phone: "9876543210",
+      email: "ravitraders@gmail.com"
+    },
+    warehouse_locations: ["Chennai Central", "Chennai North"],
+    registration_date: new Date("2025-03-15")
+  },
+  {
+    supplier_id: "SUP002",
+    supplier_name: "Shree Electronics",
+    city: "Bangalore",
+    active: true,
+    categories_supplied: ["Electronics", "Mobile Accessories"],
+    contact: {
+      phone: "9123456780",
+      email: "shreeelectronics@gmail.com"
+    },
+    warehouse_locations: ["Bangalore East", "Bangalore West"],
+    registration_date: new Date("2026-02-10")
+  },
+  {
+    supplier_id: "SUP003",
+    supplier_name: "Kumar Textiles",
+    city: "Coimbatore",
+    active: false,
+    categories_supplied: ["Clothing", "Fabrics"],
+    contact: {
+      phone: "9988776655",
+      email: "kumartextiles@gmail.com"
+    },
+    warehouse_locations: ["Coimbatore South"],
+    registration_date: new Date("2024-11-20")
+  },
+  {
+    supplier_id: "SUP004",
+    supplier_name: "Global Foods Supply",
+    city: "Chennai",
+    active: true,
+    categories_supplied: ["Groceries", "Beverages"],
+    contact: {
+      phone: "9445566778",
+      email: "globalfoods@gmail.com"
+    },
+    warehouse_locations: ["Chennai South", "Madurai"],
+    registration_date: new Date("2026-05-01")
+  },
+  {
+    supplier_id: "SUP005",
+    supplier_name: "Prime Furniture Co",
+    city: "Hyderabad",
+    active: false,
+    categories_supplied: ["Furniture", "Home Decor"],
+    contact: {
+      phone: "9090909090",
+      email: "primefurniture@gmail.com"
+    },
+    warehouse_locations: ["Hyderabad Central", "Secunderabad"],
+    registration_date: new Date("2025-08-25")
+  }
+]);
+
+
+
+// Q76. Display all active suppliers.
+db.suppliers.find({ active: true });
+
+
+
+// Q77. Find suppliers from Hyderabad.
+db.suppliers.find({ city: "Chennai" });
+
+
+
+// Q78. Find suppliers handling Electronics.
+db.suppliers.find({ categories_supplied:: "Electronics" });
+
+
+
+// Q79. Find suppliers registered after 1 January 2026.
+db.suppliers.find({ registration_date: { $gt: new Date("2026-01-01") } });
+
+
+
+// Q80. Add another warehouse to supplier 701.
+db.suppliers.updateOne(
+  { supplier_id: "SUP001" },
+  { $push: { warehouse_locations: "Chennai West" } }
+);
+
+
+
+// Q81. Change the active status of supplier 703.
+db.suppliers.updateOne(
+  { supplier_id: "SUP003" },
+  { $set: { active: true } }
+);
+
+
+
+// Q82. Remove Furniture from supplier 702's categories.
+db.suppliers.updateOne(
+  { supplier_id: "SUP001" },
+  { $pull: { categories_supplied: "Home Appliances" } }
+);
+
+
+
+// Q83. Display supplier name and city only.
+db.suppliers.find({}, { supplier_name: 1, city: 1, _id: 0 });
+
+
+
+// Q84. Sort suppliers by registration date, oldest to newest.
+db.suppliers.find().sort({ registration_date: 1 });
+
+
+
+// Q85. EXPLAIN THE DATA MODELING CHOICES
+
+// Array for categories:
+A supplier can supply 2 or more categories, and categories are just plain text values , A simple array like ["Electronics", "Mobile Accessories"] .
+
+// Embedded document for contact details:
+Contact person, phone and email belong together, so I stored them in one document , (contact: { phone, email })
+
+// Array for warehouse locations:
+A supplier can have multiple warehouses, so I stored their locations in an array.
+
+
+
+
+
+
+
+
+
+
+
