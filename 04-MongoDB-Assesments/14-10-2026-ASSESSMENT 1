@@ -3,7 +3,6 @@ use commerce_assessment
 db.createCollection("products")
 
 
-
   db.products.insertMany([
         {
             product_id: 101,
