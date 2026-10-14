@@ -320,3 +320,33 @@ db.delivery_partners.insertMany([
     }
   }
 ]);
+
+
+
+
+
+// Q29. Find active delivery partners from Hyderabad.
+db.delivery_partners.find({ city: "Hyderabad", active: true });
+
+
+// Q30. Find partners with rating greater than 4
+db.delivery_partners.find({ rating: { $gt: 4 } });
+
+
+// Q31. Add a new service area to one partner.
+db.delivery_partners.updateOne(
+  { partner_id: "DP001" },
+  { $push: { areas: "Jubilee Hills" } }
+);
+
+
+// Q32. Update one partner’s rating.
+db.delivery_partners.updateOne(
+  { partner_id: "DP002" },
+  { $set: { rating: 4.0 } }
+);
+
+
+// Q33. Sort all partners from highest rating to lowest.
+db.delivery_partners.find().sort({ rating: -1 });
+
