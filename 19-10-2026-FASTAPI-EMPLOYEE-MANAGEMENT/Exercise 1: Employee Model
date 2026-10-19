@@ -5,3 +5,7 @@ class Employee(BaseModel):
     designation: str
     salary: float
     city: str
+
+
+
+employees = []   #For empty list 
