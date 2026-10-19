@@ -1,0 +1,8 @@
+@app.post("/employees")
+def add_employee(employee: Employee):
+    for emp in employees:
+        if emp.id == employee.id:
+            raise HTTPException(status_code=409,detail="Employee ID already exists")
+
+    employees.append(employee)
+    return employee
