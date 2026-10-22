@@ -1,0 +1,35 @@
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import lit
+
+spark = SparkSession.builder \
+    .appName("RenameDropLit") \
+    .getOrCreate()
+
+data = [(101, "Laptop", "Electronics", 65000),
+    (102, "Mouse", "Accessories", 1500),
+    (103, "Monitor", "Electronics", 18000),
+    (104, "Office Chair", "Furniture", 9000),
+    (105, "Keyboard", "Accessories", 3000)]
+
+columns = ["product_id", "product_name", "category", "price"]
+
+df = spark.createDataFrame(data, columns)
+
+
+
+# 1. Rename product_name to name
+df1 = df.withColumnRenamed("product_name", "name")
+
+
+
+# 2. Remove category
+df2 = df1.drop("category")
+
+
+
+# 3. Add a country column
+df3 = df2.withColumn("country", lit("India"))
+
+
+# Display the final DataFrame
+df3.show()
