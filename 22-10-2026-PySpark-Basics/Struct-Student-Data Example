@@ -1,0 +1,38 @@
+from pyspark.sql import SparkSession
+
+from pyspark.sql.types import (
+    StructType,
+    StructField,
+    IntegerType,
+    StringType,
+    DoubleType,
+    BooleanType)
+
+
+spark = SparkSession.builder \
+    .appName("StudentExample") \
+    .getOrCreate()
+
+
+data = [
+    (101, "Ravi", 21, 85.5, True),
+    (102, "Priya", 20, 92.0, True),
+    (103, "Kiran", 22, 35.0, False)]
+
+
+schema = StructType([
+    StructField("student_id", IntegerType(), False),
+    StructField("name", StringType(), False),
+    StructField("age", IntegerType(), False),
+    StructField("marks", DoubleType(), True),
+    StructField("passed", BooleanType(), False)])
+
+
+
+df = spark.createDataFrame(data, schema)
+
+
+df.show()
+
+
+df.printSchema()
