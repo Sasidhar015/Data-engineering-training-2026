@@ -1,0 +1,26 @@
+from pyspark.sql.types import (
+    StructType,
+    StructField,
+    IntegerType,
+    StringType,
+    DoubleType,
+    BooleanType)
+
+
+
+data = [(101, "Laptop", "Electronics", 65000.0, True),
+    (102, "Mouse", "Accessories", 1500.0, True),
+    (103, "Monitor", "Electronics", 18000.0, True),
+    (104, "Office Chair", "Furniture", 9000.0, False),
+    (105, "Keyboard", "Accessories", 3000.0, True)]
+
+schema = StructType([ StructField("product_id", IntegerType(), False),
+    StructField("product_name", StringType(), False),
+    StructField("category", StringType(), True),
+    StructField("price", DoubleType(), True),
+    StructField("available", BooleanType(), True)])
+
+df = spark.createDataFrame(data, schema)
+
+df.show()
+df.printSchema()
