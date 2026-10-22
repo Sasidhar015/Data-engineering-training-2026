@@ -1,0 +1,33 @@
+from pyspark.sql import SparkSession
+
+spark = SparkSession.builder \.appName("ProductDataFrame") \.getOrCreate()
+
+data = [(101, "Laptop", "Electronics", 65000),
+    (102, "Mouse", "Accessories", 1500),
+    (103, "Monitor", "Electronics", 18000),
+    (104, "Office Chair", "Furniture", 9000),
+    (105, "Keyboard", "Accessories", 3000)]
+
+columns = ["product_id", "product_name", "category", "price"]
+
+df = spark.createDataFrame(data, columns)
+
+
+
+
+
+
+
+1. df.show()
+
+2. df.select("product_name", "category").show()
+
+3. df.filter(df.category == "Furniture").show()
+
+4. df.filter(df.price > 5000).show()
+
+5. df.filter((df.category == "Accessories") & (df.price < 5000)).show()
+
+6. df.printSchema()
+
+7. print(df.columns)
