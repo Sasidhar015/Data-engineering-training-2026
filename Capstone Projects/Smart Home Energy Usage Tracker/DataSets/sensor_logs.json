@@ -1,0 +1,6050 @@
+[
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 00:00:00",
+  "energy_kwh": 1.0275,
+  "power_watts": 1027.5,
+  "voltage": 235.7,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 00:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 231.3,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 00:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 234.6,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 00:00:00",
+  "energy_kwh": 0.9964,
+  "power_watts": 996.4,
+  "voltage": 230.2,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 00:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 236.9,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 00:00:00",
+  "energy_kwh": 0.0713,
+  "power_watts": 71.3,
+  "voltage": 235.5,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 00:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 228.0,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 00:00:00",
+  "energy_kwh": 0.071,
+  "power_watts": 71.0,
+  "voltage": 234.6,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 00:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 233.3,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 00:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 234.2,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 00:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 230.0,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 00:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 236.8,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 00:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 233.7,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 00:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 234.8,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 01:00:00",
+  "energy_kwh": 1.1466,
+  "power_watts": 1146.6,
+  "voltage": 237.4,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 01:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 235.2,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 01:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 231.4,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 01:00:00",
+  "energy_kwh": 0.9951,
+  "power_watts": 995.1,
+  "voltage": 233.8,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 01:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 237.9,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 01:00:00",
+  "energy_kwh": 0.06,
+  "power_watts": 60.0,
+  "voltage": 236.5,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 01:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 230.9,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 01:00:00",
+  "energy_kwh": 0.045,
+  "power_watts": 45.0,
+  "voltage": 237.0,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 01:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 228.5,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 01:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 233.6,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 01:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 229.1,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 01:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 236.7,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 01:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 232.3,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 01:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 231.9,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 02:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 235.1,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 02:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 231.8,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 02:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 230.1,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 02:00:00",
+  "energy_kwh": 1.0849,
+  "power_watts": 1084.9,
+  "voltage": 232.7,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 02:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 233.6,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 02:00:00",
+  "energy_kwh": 0.0698,
+  "power_watts": 69.8,
+  "voltage": 237.2,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 02:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 232.2,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 02:00:00",
+  "energy_kwh": 0.0679,
+  "power_watts": 67.9,
+  "voltage": 238.0,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 02:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 229.3,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 02:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 228.7,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 02:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 229.4,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 02:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 232.9,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 02:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 237.7,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 02:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 228.8,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 03:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 236.1,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 03:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 232.6,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 03:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 235.0,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 03:00:00",
+  "energy_kwh": 1.1566,
+  "power_watts": 1156.6,
+  "voltage": 232.3,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 03:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 232.5,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 03:00:00",
+  "energy_kwh": 0.0655,
+  "power_watts": 65.5,
+  "voltage": 233.5,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 03:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 231.8,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 03:00:00",
+  "energy_kwh": 0.0433,
+  "power_watts": 43.3,
+  "voltage": 229.9,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 03:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 228.1,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 03:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 236.5,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 03:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 235.1,
+  "signal_strength": -62
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 03:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 232.1,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 03:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 233.8,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 03:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 237.8,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 04:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 232.8,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 04:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 229.1,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 04:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 237.6,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 04:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 229.4,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 04:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 233.3,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 04:00:00",
+  "energy_kwh": 0.0611,
+  "power_watts": 61.1,
+  "voltage": 237.8,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 04:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 230.8,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 04:00:00",
+  "energy_kwh": 0.0411,
+  "power_watts": 41.1,
+  "voltage": 228.8,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 04:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 234.1,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 04:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 232.7,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 04:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 234.6,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 04:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 228.8,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 04:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 233.4,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 04:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 231.1,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 05:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 237.0,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 05:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 235.8,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 05:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 232.5,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 05:00:00",
+  "energy_kwh": 1.101,
+  "power_watts": 1101.0,
+  "voltage": 232.7,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 05:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 231.3,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 05:00:00",
+  "energy_kwh": 0.0723,
+  "power_watts": 72.3,
+  "voltage": 237.6,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 05:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 230.9,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 05:00:00",
+  "energy_kwh": 0.0576,
+  "power_watts": 57.6,
+  "voltage": 228.4,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 05:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 234.0,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 05:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 235.3,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 05:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 230.6,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 05:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 232.7,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 05:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 233.7,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 05:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 237.9,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 06:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 235.4,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 06:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 230.9,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 06:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 229.3,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 06:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 236.5,
+  "signal_strength": -62
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 06:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 230.5,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 06:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 230.8,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 06:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 230.6,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 06:00:00",
+  "energy_kwh": 0.0517,
+  "power_watts": 51.7,
+  "voltage": 229.1,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 06:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 237.1,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 06:00:00",
+  "energy_kwh": 0.0264,
+  "power_watts": 26.4,
+  "voltage": 229.5,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 06:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 231.7,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 06:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 230.6,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 06:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 230.4,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 06:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 236.0,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 07:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 228.3,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 07:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 237.7,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 07:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 237.3,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 07:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 236.4,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 07:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 237.9,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 07:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 231.8,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 07:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 232.4,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 07:00:00",
+  "energy_kwh": 0.0698,
+  "power_watts": 69.8,
+  "voltage": 229.7,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 07:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 235.3,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 07:00:00",
+  "energy_kwh": 0.0215,
+  "power_watts": 21.5,
+  "voltage": 228.5,
+  "signal_strength": -62
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 07:00:00",
+  "energy_kwh": 1.8447,
+  "power_watts": 1844.7,
+  "voltage": 235.6,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 07:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 228.5,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 07:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 232.0,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 07:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 232.8,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 08:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 235.5,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 08:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 230.3,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 08:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 235.1,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 08:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 230.6,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 08:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 236.7,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 08:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 230.9,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 08:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 232.5,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 08:00:00",
+  "energy_kwh": 0.0405,
+  "power_watts": 40.5,
+  "voltage": 231.2,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 08:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 234.8,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 08:00:00",
+  "energy_kwh": 0.023,
+  "power_watts": 23.0,
+  "voltage": 229.0,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 08:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 234.4,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 08:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 236.4,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 08:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 237.2,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 08:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 230.7,
+  "signal_strength": -62
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 09:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 230.7,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 09:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 230.6,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 09:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 231.9,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 09:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 234.8,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 09:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 235.3,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 09:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 235.7,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 09:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 231.4,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 09:00:00",
+  "energy_kwh": 0.0512,
+  "power_watts": 51.2,
+  "voltage": 237.9,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 09:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 233.5,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 09:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 228.1,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 09:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 228.1,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 09:00:00",
+  "energy_kwh": 0.0587,
+  "power_watts": 58.7,
+  "voltage": 233.3,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 09:00:00",
+  "energy_kwh": 0.0434,
+  "power_watts": 43.4,
+  "voltage": 232.5,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 09:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 235.3,
+  "signal_strength": -62
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 10:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 229.9,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 10:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 234.2,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 10:00:00",
+  "energy_kwh": 0.0625,
+  "power_watts": 62.5,
+  "voltage": 237.4,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 10:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 236.9,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 10:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 237.5,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 10:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 229.2,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 10:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 229.2,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 10:00:00",
+  "energy_kwh": 0.0648,
+  "power_watts": 64.8,
+  "voltage": 234.0,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 10:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 234.6,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 10:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 234.5,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 10:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 237.7,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 10:00:00",
+  "energy_kwh": 0.0614,
+  "power_watts": 61.4,
+  "voltage": 229.1,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 10:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 230.5,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 10:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 234.6,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 11:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 234.4,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 11:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 238.0,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 11:00:00",
+  "energy_kwh": 0.0692,
+  "power_watts": 69.2,
+  "voltage": 232.3,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 11:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 234.7,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 11:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 231.2,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 11:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 235.8,
+  "signal_strength": -62
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 11:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 235.8,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 11:00:00",
+  "energy_kwh": 0.0632,
+  "power_watts": 63.2,
+  "voltage": 231.9,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 11:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 230.6,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 11:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 230.6,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 11:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 228.7,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 11:00:00",
+  "energy_kwh": 0.0679,
+  "power_watts": 67.9,
+  "voltage": 230.0,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 11:00:00",
+  "energy_kwh": 0.0343,
+  "power_watts": 34.3,
+  "voltage": 229.8,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 11:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 229.1,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 12:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 235.7,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 12:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 234.1,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 12:00:00",
+  "energy_kwh": 0.0642,
+  "power_watts": 64.2,
+  "voltage": 237.1,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 12:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 230.6,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 12:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 228.7,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 12:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 235.3,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 12:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 232.5,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 12:00:00",
+  "energy_kwh": 0.0454,
+  "power_watts": 45.4,
+  "voltage": 233.0,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 12:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 234.4,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 12:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 228.4,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 12:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 230.7,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 12:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 231.3,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 12:00:00",
+  "energy_kwh": 0.0371,
+  "power_watts": 37.1,
+  "voltage": 233.7,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 12:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 235.1,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 13:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 232.9,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 13:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 232.0,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 13:00:00",
+  "energy_kwh": 0.0664,
+  "power_watts": 66.4,
+  "voltage": 235.8,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 13:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 228.7,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 13:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 228.0,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 13:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 234.9,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 13:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 232.8,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 13:00:00",
+  "energy_kwh": 0.0718,
+  "power_watts": 71.8,
+  "voltage": 233.4,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 13:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 231.3,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 13:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 232.0,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 13:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 238.0,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 13:00:00",
+  "energy_kwh": 0.0596,
+  "power_watts": 59.6,
+  "voltage": 228.9,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 13:00:00",
+  "energy_kwh": 0.0396,
+  "power_watts": 39.6,
+  "voltage": 236.5,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 13:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 228.8,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 14:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 235.6,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 14:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 234.5,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 14:00:00",
+  "energy_kwh": 0.0697,
+  "power_watts": 69.7,
+  "voltage": 233.5,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 14:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 231.8,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 14:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 231.0,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 14:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 237.0,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 14:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 234.9,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 14:00:00",
+  "energy_kwh": 0.0712,
+  "power_watts": 71.2,
+  "voltage": 228.8,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 14:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 232.4,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 14:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 229.4,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 14:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 228.3,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 14:00:00",
+  "energy_kwh": 0.0588,
+  "power_watts": 58.8,
+  "voltage": 230.4,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 14:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 228.6,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 14:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 234.4,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 15:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 233.3,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 15:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 236.1,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 15:00:00",
+  "energy_kwh": 0.0611,
+  "power_watts": 61.1,
+  "voltage": 238.0,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 15:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 231.4,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 15:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 235.9,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 15:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 232.1,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 15:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 236.1,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 15:00:00",
+  "energy_kwh": 0.0393,
+  "power_watts": 39.3,
+  "voltage": 233.2,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 15:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 234.8,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 15:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 233.4,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 15:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 233.8,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 15:00:00",
+  "energy_kwh": 0.0654,
+  "power_watts": 65.4,
+  "voltage": 228.7,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 15:00:00",
+  "energy_kwh": 0.0382,
+  "power_watts": 38.2,
+  "voltage": 229.4,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 15:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 228.2,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 16:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 237.2,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 16:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 230.4,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 16:00:00",
+  "energy_kwh": 0.0662,
+  "power_watts": 66.2,
+  "voltage": 229.3,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 16:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 234.3,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 16:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 231.1,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 16:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 229.0,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 16:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 229.7,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 16:00:00",
+  "energy_kwh": 0.0749,
+  "power_watts": 74.9,
+  "voltage": 228.6,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 16:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 229.1,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 16:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 233.9,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 16:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 230.2,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 16:00:00",
+  "energy_kwh": 0.071,
+  "power_watts": 71.0,
+  "voltage": 230.0,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 16:00:00",
+  "energy_kwh": 0.0341,
+  "power_watts": 34.1,
+  "voltage": 236.1,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 16:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 234.8,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 17:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 229.2,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 17:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 233.8,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 17:00:00",
+  "energy_kwh": 0.0714,
+  "power_watts": 71.4,
+  "voltage": 231.2,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 17:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 235.9,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 17:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 228.5,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 17:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 231.4,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 17:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 230.7,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 17:00:00",
+  "energy_kwh": 0.0576,
+  "power_watts": 57.6,
+  "voltage": 232.2,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 17:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 231.7,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 17:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 232.4,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 17:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 233.8,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 17:00:00",
+  "energy_kwh": 0.0657,
+  "power_watts": 65.7,
+  "voltage": 229.0,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 17:00:00",
+  "energy_kwh": 0.0383,
+  "power_watts": 38.3,
+  "voltage": 234.3,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 17:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 235.8,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 18:00:00",
+  "energy_kwh": 1.3061,
+  "power_watts": 1306.1,
+  "voltage": 236.8,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 18:00:00",
+  "energy_kwh": 0.1099,
+  "power_watts": 109.9,
+  "voltage": 228.1,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 18:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 237.3,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 18:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 234.5,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 18:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 230.8,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 18:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 236.1,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 18:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 232.8,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 18:00:00",
+  "energy_kwh": 0.0563,
+  "power_watts": 56.3,
+  "voltage": 230.1,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 18:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 230.7,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 18:00:00",
+  "energy_kwh": 0.027,
+  "power_watts": 27.0,
+  "voltage": 232.1,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 18:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 229.7,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 18:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 228.4,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 18:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 235.2,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 18:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 237.5,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 19:00:00",
+  "energy_kwh": 1.1095,
+  "power_watts": 1109.5,
+  "voltage": 236.3,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 19:00:00",
+  "energy_kwh": 0.1203,
+  "power_watts": 120.3,
+  "voltage": 231.5,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 19:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 233.6,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 19:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 229.2,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 19:00:00",
+  "energy_kwh": 0.0208,
+  "power_watts": 20.8,
+  "voltage": 237.8,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 19:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 231.6,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 19:00:00",
+  "energy_kwh": 0.0157,
+  "power_watts": 15.7,
+  "voltage": 237.9,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 19:00:00",
+  "energy_kwh": 0.0574,
+  "power_watts": 57.4,
+  "voltage": 230.2,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 19:00:00",
+  "energy_kwh": 0.931,
+  "power_watts": 931.0,
+  "voltage": 234.3,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 19:00:00",
+  "energy_kwh": 0.0271,
+  "power_watts": 27.1,
+  "voltage": 230.8,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 19:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 229.1,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 19:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 234.9,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 19:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 237.1,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 19:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 229.8,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 20:00:00",
+  "energy_kwh": 1.2695,
+  "power_watts": 1269.5,
+  "voltage": 237.2,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 20:00:00",
+  "energy_kwh": 0.1037,
+  "power_watts": 103.7,
+  "voltage": 234.4,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 20:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 230.1,
+  "signal_strength": -62
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 20:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 231.3,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 20:00:00",
+  "energy_kwh": 0.0217,
+  "power_watts": 21.7,
+  "voltage": 236.9,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 20:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 228.4,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 20:00:00",
+  "energy_kwh": 0.0146,
+  "power_watts": 14.6,
+  "voltage": 228.5,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 20:00:00",
+  "energy_kwh": 0.0401,
+  "power_watts": 40.1,
+  "voltage": 229.8,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 20:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 228.3,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 20:00:00",
+  "energy_kwh": 0.0221,
+  "power_watts": 22.1,
+  "voltage": 229.2,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 20:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 230.4,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 20:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 233.9,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 20:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 232.2,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 20:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 234.8,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 21:00:00",
+  "energy_kwh": 1.1849,
+  "power_watts": 1184.9,
+  "voltage": 230.3,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 21:00:00",
+  "energy_kwh": 0.1282,
+  "power_watts": 128.2,
+  "voltage": 231.3,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 21:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 230.4,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 21:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 236.7,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 21:00:00",
+  "energy_kwh": 0.0181,
+  "power_watts": 18.1,
+  "voltage": 236.9,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 21:00:00",
+  "energy_kwh": 0.0723,
+  "power_watts": 72.3,
+  "voltage": 232.7,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 21:00:00",
+  "energy_kwh": 0.0139,
+  "power_watts": 13.9,
+  "voltage": 228.5,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 21:00:00",
+  "energy_kwh": 0.0748,
+  "power_watts": 74.8,
+  "voltage": 229.4,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 21:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 234.1,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 21:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 231.9,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 21:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 232.6,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 21:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 234.3,
+  "signal_strength": -62
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 21:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 230.0,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 21:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 228.3,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 22:00:00",
+  "energy_kwh": 1.0563,
+  "power_watts": 1056.3,
+  "voltage": 228.6,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 22:00:00",
+  "energy_kwh": 0.1121,
+  "power_watts": 112.1,
+  "voltage": 229.1,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 22:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 232.6,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 22:00:00",
+  "energy_kwh": 0.9983,
+  "power_watts": 998.3,
+  "voltage": 235.6,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 22:00:00",
+  "energy_kwh": 0.0174,
+  "power_watts": 17.4,
+  "voltage": 236.9,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 22:00:00",
+  "energy_kwh": 0.0635,
+  "power_watts": 63.5,
+  "voltage": 229.6,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 22:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 234.4,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 22:00:00",
+  "energy_kwh": 0.0715,
+  "power_watts": 71.5,
+  "voltage": 237.1,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 22:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 237.7,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 22:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 230.3,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 22:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 236.6,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 22:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 236.6,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 22:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 233.9,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 22:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 232.6,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 23:00:00",
+  "energy_kwh": 1.0413,
+  "power_watts": 1041.3,
+  "voltage": 235.3,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 23:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 236.7,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-01 23:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 231.3,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 23:00:00",
+  "energy_kwh": 1.119,
+  "power_watts": 1119.0,
+  "voltage": 230.2,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-01 23:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 233.9,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 23:00:00",
+  "energy_kwh": 0.0618,
+  "power_watts": 61.8,
+  "voltage": 237.1,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-01 23:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 228.1,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 23:00:00",
+  "energy_kwh": 0.0726,
+  "power_watts": 72.6,
+  "voltage": 228.4,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 23:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 235.3,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-01 23:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 228.3,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 23:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 231.9,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 23:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 236.0,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-01 23:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 229.0,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-01 23:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 230.4,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 00:00:00",
+  "energy_kwh": 1.1618,
+  "power_watts": 1161.8,
+  "voltage": 235.5,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 00:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 235.3,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 00:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 230.2,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 00:00:00",
+  "energy_kwh": 1.1571,
+  "power_watts": 1157.1,
+  "voltage": 231.0,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 00:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 238.0,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 00:00:00",
+  "energy_kwh": 0.0612,
+  "power_watts": 61.2,
+  "voltage": 232.8,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 00:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 229.6,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 00:00:00",
+  "energy_kwh": 0.0537,
+  "power_watts": 53.7,
+  "voltage": 236.6,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 00:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 233.8,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 00:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 232.6,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 00:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 236.7,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 00:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 229.8,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 00:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 231.7,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 00:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 235.0,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 01:00:00",
+  "energy_kwh": 1.1601,
+  "power_watts": 1160.1,
+  "voltage": 236.6,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 01:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 231.8,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 01:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 231.3,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 01:00:00",
+  "energy_kwh": 1.1202,
+  "power_watts": 1120.2,
+  "voltage": 231.0,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 01:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 230.7,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 01:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 234.1,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 01:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 235.9,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 01:00:00",
+  "energy_kwh": 0.0412,
+  "power_watts": 41.2,
+  "voltage": 234.8,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 01:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 236.8,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 01:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 237.3,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 01:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 237.5,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 01:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 231.6,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 01:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 229.1,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 01:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 232.7,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 02:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 231.7,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 02:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 234.5,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 02:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 228.7,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 02:00:00",
+  "energy_kwh": 1.0283,
+  "power_watts": 1028.3,
+  "voltage": 235.7,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 02:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 237.8,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 02:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 233.4,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 02:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 232.8,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 02:00:00",
+  "energy_kwh": 0.0468,
+  "power_watts": 46.8,
+  "voltage": 235.5,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 02:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 237.6,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 02:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 235.5,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 02:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 230.3,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 02:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 237.0,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 02:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 234.8,
+  "signal_strength": -62
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 02:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 228.5,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 03:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 231.5,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 03:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 233.0,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 03:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 229.2,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 03:00:00",
+  "energy_kwh": 1.0584,
+  "power_watts": 1058.4,
+  "voltage": 233.3,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 03:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 233.3,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 03:00:00",
+  "energy_kwh": 0.0644,
+  "power_watts": 64.4,
+  "voltage": 232.5,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 03:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 236.0,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 03:00:00",
+  "energy_kwh": 0.0469,
+  "power_watts": 46.9,
+  "voltage": 234.9,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 03:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 236.8,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 03:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 236.9,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 03:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 228.9,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 03:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 237.0,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 03:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 237.6,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 03:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 229.1,
+  "signal_strength": -62
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 04:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 229.1,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 04:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 233.0,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 04:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 230.0,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 04:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 234.3,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 04:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 232.2,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 04:00:00",
+  "energy_kwh": 0.0746,
+  "power_watts": 74.6,
+  "voltage": 233.4,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 04:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 232.7,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 04:00:00",
+  "energy_kwh": 0.0581,
+  "power_watts": 58.1,
+  "voltage": 232.4,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 04:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 228.2,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 04:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 228.6,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 04:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 236.0,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 04:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 237.5,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 04:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 231.4,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 04:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 231.4,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 05:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 235.9,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 05:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 233.9,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 05:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 233.3,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 05:00:00",
+  "energy_kwh": 1.2098,
+  "power_watts": 1209.8,
+  "voltage": 232.5,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 05:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 233.7,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 05:00:00",
+  "energy_kwh": 0.0765,
+  "power_watts": 76.5,
+  "voltage": 235.9,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 05:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 235.9,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 05:00:00",
+  "energy_kwh": 0.0722,
+  "power_watts": 72.2,
+  "voltage": 232.8,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 05:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 235.7,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 05:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 229.5,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 05:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 232.6,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 05:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 234.2,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 05:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 235.1,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 05:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 229.8,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 06:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 236.4,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 06:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 237.0,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 06:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 229.5,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 06:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 229.2,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 06:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 233.7,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 06:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 230.6,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 06:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 230.1,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 06:00:00",
+  "energy_kwh": 0.0437,
+  "power_watts": 43.7,
+  "voltage": 228.3,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 06:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 237.8,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 06:00:00",
+  "energy_kwh": 0.0226,
+  "power_watts": 22.6,
+  "voltage": 231.7,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 06:00:00",
+  "energy_kwh": 1.7293,
+  "power_watts": 1729.3,
+  "voltage": 237.8,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 06:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 231.0,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 06:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 228.2,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 06:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 233.0,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 07:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 237.5,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 07:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 231.2,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 07:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 237.7,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 07:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 237.8,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 07:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 234.5,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 07:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 232.7,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 07:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 237.7,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 07:00:00",
+  "energy_kwh": 0.0517,
+  "power_watts": 51.7,
+  "voltage": 237.8,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 07:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 234.7,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 07:00:00",
+  "energy_kwh": 0.0262,
+  "power_watts": 26.2,
+  "voltage": 233.7,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 07:00:00",
+  "energy_kwh": 1.9115,
+  "power_watts": 1911.5,
+  "voltage": 237.2,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 07:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 234.9,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 07:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 232.8,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 07:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 229.4,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 08:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 229.2,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 08:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 232.0,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 08:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 230.2,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 08:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 228.9,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 08:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 234.1,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 08:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 233.8,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 08:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 235.8,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 08:00:00",
+  "energy_kwh": 0.0734,
+  "power_watts": 73.4,
+  "voltage": 230.8,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 08:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 228.8,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 08:00:00",
+  "energy_kwh": 0.0257,
+  "power_watts": 25.7,
+  "voltage": 232.5,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 08:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 237.6,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 08:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 231.9,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 08:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 231.2,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 08:00:00",
+  "energy_kwh": 0.4621,
+  "power_watts": 462.1,
+  "voltage": 233.1,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 09:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 237.1,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 09:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 232.0,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 09:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 236.5,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 09:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 231.9,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 09:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 230.8,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 09:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 231.1,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 09:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 236.7,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 09:00:00",
+  "energy_kwh": 0.0738,
+  "power_watts": 73.8,
+  "voltage": 230.2,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 09:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 232.4,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 09:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 236.0,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 09:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 229.6,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 09:00:00",
+  "energy_kwh": 0.0641,
+  "power_watts": 64.1,
+  "voltage": 237.7,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 09:00:00",
+  "energy_kwh": 0.0346,
+  "power_watts": 34.6,
+  "voltage": 235.3,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 09:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 229.4,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 10:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 234.0,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 10:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 230.1,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 10:00:00",
+  "energy_kwh": 0.0744,
+  "power_watts": 74.4,
+  "voltage": 237.9,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 10:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 237.9,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 10:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 237.3,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 10:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 235.6,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 10:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 228.1,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 10:00:00",
+  "energy_kwh": 0.0434,
+  "power_watts": 43.4,
+  "voltage": 237.1,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 10:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 229.7,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 10:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 235.1,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 10:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 237.1,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 10:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 229.9,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 10:00:00",
+  "energy_kwh": 0.0359,
+  "power_watts": 35.9,
+  "voltage": 230.9,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 10:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 228.4,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 11:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 231.0,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 11:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 231.0,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 11:00:00",
+  "energy_kwh": 0.0713,
+  "power_watts": 71.3,
+  "voltage": 235.4,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 11:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 228.3,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 11:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 229.5,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 11:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 237.6,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 11:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 234.4,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 11:00:00",
+  "energy_kwh": 0.0463,
+  "power_watts": 46.3,
+  "voltage": 234.5,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 11:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 230.9,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 11:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 232.9,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 11:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 234.4,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 11:00:00",
+  "energy_kwh": 0.0697,
+  "power_watts": 69.7,
+  "voltage": 229.2,
+  "signal_strength": -62
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 11:00:00",
+  "energy_kwh": 0.0399,
+  "power_watts": 39.9,
+  "voltage": 232.9,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 11:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 234.0,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 12:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 233.8,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 12:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 232.4,
+  "signal_strength": -62
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 12:00:00",
+  "energy_kwh": 0.0668,
+  "power_watts": 66.8,
+  "voltage": 234.3,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 12:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 237.7,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 12:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 229.2,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 12:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 235.3,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 12:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 236.5,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 12:00:00",
+  "energy_kwh": 0.0594,
+  "power_watts": 59.4,
+  "voltage": 233.8,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 12:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 231.2,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 12:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 234.9,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 12:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 229.6,
+  "signal_strength": -62
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 12:00:00",
+  "energy_kwh": 0.0704,
+  "power_watts": 70.4,
+  "voltage": 231.6,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 12:00:00",
+  "energy_kwh": 0.0412,
+  "power_watts": 41.2,
+  "voltage": 237.1,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 12:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 228.5,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 13:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 233.3,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 13:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 228.8,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 13:00:00",
+  "energy_kwh": 0.0664,
+  "power_watts": 66.4,
+  "voltage": 235.7,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 13:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 235.6,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 13:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 235.5,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 13:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 231.2,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 13:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 236.3,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 13:00:00",
+  "energy_kwh": 0.0627,
+  "power_watts": 62.7,
+  "voltage": 236.0,
+  "signal_strength": -62
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 13:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 234.9,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 13:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 231.6,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 13:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 233.8,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 13:00:00",
+  "energy_kwh": 0.0604,
+  "power_watts": 60.4,
+  "voltage": 229.4,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 13:00:00",
+  "energy_kwh": 0.0347,
+  "power_watts": 34.7,
+  "voltage": 233.2,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 13:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 235.8,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 14:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 231.4,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 14:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 229.6,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 14:00:00",
+  "energy_kwh": 0.077,
+  "power_watts": 77.0,
+  "voltage": 229.5,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 14:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 236.3,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 14:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 237.0,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 14:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 234.9,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 14:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 233.3,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 14:00:00",
+  "energy_kwh": 0.0749,
+  "power_watts": 74.9,
+  "voltage": 235.1,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 14:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 235.6,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 14:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 232.2,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 14:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 228.8,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 14:00:00",
+  "energy_kwh": 0.0587,
+  "power_watts": 58.7,
+  "voltage": 229.3,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 14:00:00",
+  "energy_kwh": 0.0433,
+  "power_watts": 43.3,
+  "voltage": 232.8,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 14:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 234.9,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 15:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 236.2,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 15:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 237.9,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 15:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 235.6,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 15:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 229.7,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 15:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 228.3,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 15:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 229.2,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 15:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 236.6,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 15:00:00",
+  "energy_kwh": 0.0705,
+  "power_watts": 70.5,
+  "voltage": 234.9,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 15:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 229.3,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 15:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 237.8,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 15:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 234.9,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 15:00:00",
+  "energy_kwh": 0.0578,
+  "power_watts": 57.8,
+  "voltage": 229.1,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 15:00:00",
+  "energy_kwh": 0.041,
+  "power_watts": 41.0,
+  "voltage": 235.7,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 15:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 232.3,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 16:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 229.1,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 16:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 234.6,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 16:00:00",
+  "energy_kwh": 0.0768,
+  "power_watts": 76.8,
+  "voltage": 228.6,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 16:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 237.1,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 16:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 228.7,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 16:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 228.1,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 16:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 235.8,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 16:00:00",
+  "energy_kwh": 0.062,
+  "power_watts": 62.0,
+  "voltage": 234.0,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 16:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 237.0,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 16:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 234.7,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 16:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 228.9,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 16:00:00",
+  "energy_kwh": 0.0685,
+  "power_watts": 68.5,
+  "voltage": 235.5,
+  "signal_strength": -62
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 16:00:00",
+  "energy_kwh": 0.0406,
+  "power_watts": 40.6,
+  "voltage": 237.5,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 16:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 231.5,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 17:00:00",
+  "energy_kwh": 0.024,
+  "power_watts": 24.0,
+  "voltage": 233.0,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 17:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 234.1,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 17:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 233.7,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 17:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 236.2,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 17:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 228.1,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 17:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 235.2,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 17:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 230.8,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 17:00:00",
+  "energy_kwh": 0.0425,
+  "power_watts": 42.5,
+  "voltage": 235.5,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 17:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 237.7,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 17:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 237.2,
+  "signal_strength": -41
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 17:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 233.0,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 17:00:00",
+  "energy_kwh": 0.057,
+  "power_watts": 57.0,
+  "voltage": 232.7,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 17:00:00",
+  "energy_kwh": 0.0367,
+  "power_watts": 36.7,
+  "voltage": 233.9,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 17:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 234.7,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 18:00:00",
+  "energy_kwh": 1.2353,
+  "power_watts": 1235.3,
+  "voltage": 229.8,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 18:00:00",
+  "energy_kwh": 0.121,
+  "power_watts": 121.0,
+  "voltage": 237.8,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 18:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 230.1,
+  "signal_strength": -63
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 18:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 232.1,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 18:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 237.8,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 18:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 232.7,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 18:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 229.4,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 18:00:00",
+  "energy_kwh": 0.0474,
+  "power_watts": 47.4,
+  "voltage": 231.6,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 18:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 233.6,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 18:00:00",
+  "energy_kwh": 0.0269,
+  "power_watts": 26.9,
+  "voltage": 228.8,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 18:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 229.2,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 18:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 232.6,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 18:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 231.1,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 18:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 232.4,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 19:00:00",
+  "energy_kwh": 1.0477,
+  "power_watts": 1047.7,
+  "voltage": 232.1,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 19:00:00",
+  "energy_kwh": 0.1103,
+  "power_watts": 110.3,
+  "voltage": 232.3,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 19:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 228.7,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 19:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 236.0,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 19:00:00",
+  "energy_kwh": 0.0209,
+  "power_watts": 20.9,
+  "voltage": 234.8,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 19:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 228.1,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 19:00:00",
+  "energy_kwh": 0.0137,
+  "power_watts": 13.7,
+  "voltage": 232.9,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 19:00:00",
+  "energy_kwh": 0.0653,
+  "power_watts": 65.3,
+  "voltage": 232.0,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 19:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 234.6,
+  "signal_strength": -68
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 19:00:00",
+  "energy_kwh": 0.0213,
+  "power_watts": 21.3,
+  "voltage": 229.2,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 19:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 232.0,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 19:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 237.8,
+  "signal_strength": -47
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 19:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 237.3,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 19:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 228.6,
+  "signal_strength": -64
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 20:00:00",
+  "energy_kwh": 1.2849,
+  "power_watts": 1284.9,
+  "voltage": 231.4,
+  "signal_strength": -51
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 20:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 236.4,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 20:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 229.2,
+  "signal_strength": -44
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 20:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 232.2,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 20:00:00",
+  "energy_kwh": 0.0212,
+  "power_watts": 21.2,
+  "voltage": 230.8,
+  "signal_strength": -48
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 20:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 235.7,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 20:00:00",
+  "energy_kwh": 0.0133,
+  "power_watts": 13.3,
+  "voltage": 230.7,
+  "signal_strength": -45
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 20:00:00",
+  "energy_kwh": 0.0423,
+  "power_watts": 42.3,
+  "voltage": 236.0,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 20:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 232.0,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 20:00:00",
+  "energy_kwh": 0.0262,
+  "power_watts": 26.2,
+  "voltage": 234.7,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 20:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 232.0,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 20:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 233.1,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 20:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 235.7,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 20:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 229.2,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 21:00:00",
+  "energy_kwh": 1.2897,
+  "power_watts": 1289.7,
+  "voltage": 233.0,
+  "signal_strength": -50
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 21:00:00",
+  "energy_kwh": 0.1095,
+  "power_watts": 109.5,
+  "voltage": 237.4,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 21:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 229.0,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 21:00:00",
+  "energy_kwh": 0.022,
+  "power_watts": 22.0,
+  "voltage": 236.3,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 21:00:00",
+  "energy_kwh": 0.0209,
+  "power_watts": 20.9,
+  "voltage": 234.8,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 21:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 231.8,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 21:00:00",
+  "energy_kwh": 0.0151,
+  "power_watts": 15.1,
+  "voltage": 231.3,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 21:00:00",
+  "energy_kwh": 0.0433,
+  "power_watts": 43.3,
+  "voltage": 234.2,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 21:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 235.6,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 21:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 235.5,
+  "signal_strength": -46
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 21:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 232.9,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 21:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 230.0,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 21:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 233.0,
+  "signal_strength": -54
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 21:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 230.6,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 22:00:00",
+  "energy_kwh": 1.3129,
+  "power_watts": 1312.9,
+  "voltage": 236.1,
+  "signal_strength": -53
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 22:00:00",
+  "energy_kwh": 0.1284,
+  "power_watts": 128.4,
+  "voltage": 233.5,
+  "signal_strength": -40
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 22:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 235.6,
+  "signal_strength": -57
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 22:00:00",
+  "energy_kwh": 1.1376,
+  "power_watts": 1137.6,
+  "voltage": 236.8,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 22:00:00",
+  "energy_kwh": 0.0217,
+  "power_watts": 21.7,
+  "voltage": 231.8,
+  "signal_strength": -60
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 22:00:00",
+  "energy_kwh": 0.0746,
+  "power_watts": 74.6,
+  "voltage": 236.5,
+  "signal_strength": -56
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 22:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 232.6,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 22:00:00",
+  "energy_kwh": 0.0679,
+  "power_watts": 67.9,
+  "voltage": 229.8,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 22:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 236.6,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 22:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 236.8,
+  "signal_strength": -65
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 22:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 232.9,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 22:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 231.1,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 22:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 232.9,
+  "signal_strength": -67
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 22:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 233.7,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D01",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 23:00:00",
+  "energy_kwh": 1.2562,
+  "power_watts": 1256.2,
+  "voltage": 234.6,
+  "signal_strength": -49
+ },
+ {
+  "device_id": "D02",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 23:00:00",
+  "energy_kwh": 0.0024,
+  "power_watts": 2.4,
+  "voltage": 233.4,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D03",
+  "room_id": "R01",
+  "timestamp": "2026-09-02 23:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 232.8,
+  "signal_strength": -43
+ },
+ {
+  "device_id": "D04",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 23:00:00",
+  "energy_kwh": 1.1748,
+  "power_watts": 1174.8,
+  "voltage": 229.6,
+  "signal_strength": -69
+ },
+ {
+  "device_id": "D05",
+  "room_id": "R02",
+  "timestamp": "2026-09-02 23:00:00",
+  "energy_kwh": 0.0004,
+  "power_watts": 0.4,
+  "voltage": 231.9,
+  "signal_strength": -55
+ },
+ {
+  "device_id": "D06",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 23:00:00",
+  "energy_kwh": 0.0014,
+  "power_watts": 1.4,
+  "voltage": 233.9,
+  "signal_strength": -58
+ },
+ {
+  "device_id": "D07",
+  "room_id": "R03",
+  "timestamp": "2026-09-02 23:00:00",
+  "energy_kwh": 0.0003,
+  "power_watts": 0.3,
+  "voltage": 234.2,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D08",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 23:00:00",
+  "energy_kwh": 0.0458,
+  "power_watts": 45.8,
+  "voltage": 235.7,
+  "signal_strength": -61
+ },
+ {
+  "device_id": "D09",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 23:00:00",
+  "energy_kwh": 0.02,
+  "power_watts": 20.0,
+  "voltage": 231.2,
+  "signal_strength": -70
+ },
+ {
+  "device_id": "D10",
+  "room_id": "R04",
+  "timestamp": "2026-09-02 23:00:00",
+  "energy_kwh": 0.0005,
+  "power_watts": 0.5,
+  "voltage": 233.9,
+  "signal_strength": -66
+ },
+ {
+  "device_id": "D11",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 23:00:00",
+  "energy_kwh": 0.04,
+  "power_watts": 40.0,
+  "voltage": 236.4,
+  "signal_strength": -59
+ },
+ {
+  "device_id": "D12",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 23:00:00",
+  "energy_kwh": 0.0013,
+  "power_watts": 1.3,
+  "voltage": 236.1,
+  "signal_strength": -52
+ },
+ {
+  "device_id": "D13",
+  "room_id": "R06",
+  "timestamp": "2026-09-02 23:00:00",
+  "energy_kwh": 0.0008,
+  "power_watts": 0.8,
+  "voltage": 228.3,
+  "signal_strength": -42
+ },
+ {
+  "device_id": "D14",
+  "room_id": "R05",
+  "timestamp": "2026-09-02 23:00:00",
+  "energy_kwh": 0.01,
+  "power_watts": 10.0,
+  "voltage": 234.3,
+  "signal_strength": -58
+ }
+]
