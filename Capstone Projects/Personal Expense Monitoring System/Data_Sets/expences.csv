@@ -1,0 +1,576 @@
+expense_id	user_id	category	amount	date	description	payment_method
+1	1	Rent	$1,060.50	April 01, 2026	rent purchase	UPI
+2	1	 Utilities 	79.66	01-Apr-26	utilities purchase	Debit Card
+3	1	Entertainment	22.2	08-04-2026	entertainment purchase	UPI
+4	1	Dining	$40.55	April 05, 2026	dining purchase	Cash
+5	1	Utilities	$95.56	April 22, 2026	utilities purchase	Cash
+6	1	Utilities	$81.32	April 19, 2026	utilities purchase	Credit Card
+7	1	Shopping	$103.82	April 02, 2026	shopping purchase	Debit Card
+8	1	Groceries	52.01	April 03, 2026	groceries purchase	Credit Card
+9	1	Dining	19.69	08-04-2026	dining purchase	Cash
+10	1	Groceries	$50.53	18-Apr-26	groceries purchase	UPI
+11	1	Dining	18.49	23-Apr-26	dining purchase	Cash
+12	1	Shopping	$2,828.00	08-04-2026	shopping purchase	Cash
+13	1	Education	88.5	April 19, 2026	education purchase	UPI
+14	1	Entertainment	32.23	26-Apr-26	entertainment purchase	Credit Card
+15	1	Groceries	34.79	25-Apr-26	groceries purchase	Debit Card
+16	1	Transport	37.23	23-Apr-26	transport purchase	Cash
+17	1	Shopping	$65.36	April 11, 2026	shopping purchase	Cash
+18	1	Entertainment	$28.58	05-04-2026	entertainment purchase	Debit Card
+19	1	Dining	$25.77	25-Apr-26	dining purchase	Cash
+20	1	Rent	$1,060.50	01-05-2026	rent purchase	Debit Card
+21	1	Health	73.31	04-May-26	health purchase	Debit Card
+22	1	Utilities	87.31	13-05-2026	utilities purchase	Debit Card
+23	1	Utilities	88.25	May 12, 2026	utilities purchase	UPI
+24	1	Health	70.77	May 20, 2026	health purchase	Credit Card
+25	1	Entertainment	67.12	May 26, 2026	entertainment purchase	Credit Card
+26	1	Groceries	38.9	24-05-2026	groceries purchase	UPI
+27	1	Education	74.63	May 18, 2026	education purchase	Credit Card
+28	1	Utilities	63.72	May 13, 2026	utilities purchase	Credit Card
+29	1	Utilities	92.32	18-May-26	utilities purchase	Credit Card
+30	1	Entertainment	$51.93	27-05-2026	entertainment purchase	Cash
+31	1	Health	57.15	19-05-2026	health purchase	UPI
+32	1	Dining	$19.92	23-May-26	dining purchase	Credit Card
+33	1	Utilities	63.51	May 02, 2026	utilities purchase	UPI
+34	1	Dining	37.81	25-May-26	dining purchase	Credit Card
+35	1	Entertainment	$46.15	May 03, 2026	entertainment purchase	Credit Card
+36	1	Dining	36.52	28-05-2026	dining purchase	UPI
+37	1	Utilities	66.69	May 13, 2026	utilities purchase	Debit Card
+38	1	Entertainment	38.48	15-May-26	entertainment purchase	UPI
+39	1	Rent	$1,060.50	June 01, 2026	rent purchase	Debit Card
+40	1	Health	62.92	06-Jun-26	health purchase	Cash
+41	1	health	$65.47	June 12, 2026	health purchase	UPI
+42	1	Dining	$40.46	22-06-2026	dining purchase	Debit Card
+43	1	Entertainment	$38.35	23-06-2026	entertainment purchase	Credit Card
+44	1	Utilities	93.58	20-06-2026	utilities purchase	Cash
+45	1	Transport	25.68	June 18, 2026	transport purchase	UPI
+46	1	Dining	33.47	06-Jun-26	dining purchase	Debit Card
+47	1	Education	$108.94	13-06-2026	education purchase	Debit Card
+48	1	Entertainment	$13.14	21-Jun-26	entertainment purchase	UPI
+49	1	Dining	26.16	22-06-2026	dining purchase	Debit Card
+50	1	Health	$48.24	27-06-2026	health purchase	UPI
+51	1	Groceries	35.42	08-06-2026	groceries purchase	Debit Card
+52	1	Groceries	40.87	26-06-2026	groceries purchase	Credit Card
+53	1	Health	97.37	13-Jun-26	health purchase	UPI
+54	1	Entertainment	22.01	03-Jun-26	entertainment purchase	UPI
+55	1	Dining	41.62	June 19, 2026	dining purchase	Cash
+56	1	 Health 	17.93	07-Jun-26	health purchase	Credit Card
+57	1	Education	79.95	June 13, 2026	education purchase	UPI
+58	1	Rent	1060.5	01-Jul-26	rent purchase	Debit Card
+59	1	Education	$94.88	05-Jul-26	education purchase	Debit Card
+60	1	Entertainment	$43.79	05-07-2026	entertainment purchase	Debit Card
+61	1	Dining	38.53	July 24, 2026	dining purchase	Cash
+62	1	Entertainment	46.9	24-07-2026	entertainment purchase	UPI
+63	1	Shopping	$59.54	19-Jul-26	shopping purchase	Debit Card
+64	1	Shopping	56.13	12-Jul-26	shopping purchase	Cash
+65	1	Dining	40.3	05-07-2026	dining purchase	Cash
+66	1	Education	$84.26	July 03, 2026	education purchase	UPI
+67	1	Groceries		28-Jul-26	groceries purchase	Debit Card
+68	1	 Utilities 	$57.33	05-Jul-26	utilities purchase	Credit Card
+69	1	Transport	$15.81	26-07-2026	transport purchase	Debit Card
+70	1	Shopping	$84.91	20-Jul-26	shopping purchase	Credit Card
+71	1	Utilities	82.85	13-Jul-26	utilities purchase	Credit Card
+72	1	Shopping	90.71	20-Jul-26	shopping purchase	Debit Card
+73	1	EDUCATION	77.18	July 17, 2026	education purchase	Credit Card
+74	1	Entertainment	37.38	18-Jul-26	entertainment purchase	Cash
+75	1	Groceries	54.38	22-Jul-26	groceries purchase	Cash
+76	1	Utilities	73.81	22-Jul-26	utilities purchase	Debit Card
+77	1	Rent	1060.5	01-08-2026	rent purchase	UPI
+78	1	Entertainment	41.85	25-Aug-26	entertainment purchase	Cash
+79	1	Health	$43.45	August 04, 2026	health purchase	Debit Card
+80	1	Entertainment	29.55	14-Aug-26	entertainment purchase	Credit Card
+81	1	Transport	$21.18	15-Aug-26	transport purchase	Cash
+82	1	Groceries	27.06	August 24, 2026	groceries purchase	Debit Card
+83	1	Entertainment	42.3	17-Aug-26	entertainment purchase	Debit Card
+84	1	Transport	20.31	17-08-2026	transport purchase	UPI
+85	1	 Utilities 	80.25	August 28, 2026	utilities purchase	Credit Card
+86	1	Entertainment	$42.21	27-Aug-26	entertainment purchase	Credit Card
+87	1	Dining	35.36	05-08-2026	dining purchase	Credit Card
+88	1	Health	76.63	25-Aug-26	health purchase	Debit Card
+89	1	Transport	24.02	August 18, 2026	transport purchase	Debit Card
+90	1	Groceries	38.65	20-08-2026	groceries purchase	Credit Card
+91	1	Health	$58.01	August 16, 2026	health purchase	Debit Card
+92	1	Groceries	19.69	04-Aug-26	groceries purchase	UPI
+93	1	Health	$23.82	27-Aug-26	health purchase	Debit Card
+94	1	Entertainment	15.16	08-08-2026	entertainment purchase	Debit Card
+95	1	Groceries	30.04	08-08-2026	groceries purchase	Cash
+96	1	Rent	1060.5	01-Sep-26	rent purchase	UPI
+97	1	Utilities	88	September 03, 2026	utilities purchase	Cash
+98	1	Education	62.84	27-Sep-26	education purchase	Credit Card
+99	1	Utilities	72.44	25-Sep-26	utilities purchase	Credit Card
+100	1	Transport	37.99	05-Sep-26	transport purchase	UPI
+101	1	Education	79.31	September 18, 2026	education purchase	Debit Card
+102	1	Transport	$32.38	September 09, 2026	transport purchase	Cash
+103	1	Shopping	$41.99	07-Sep-26	shopping purchase	UPI
+104	1	 Dining 	27.53	23-09-2026	dining purchase	Cash
+105	1	Entertainment	$20.75	September 13, 2026	entertainment purchase	Debit Card
+106	1	Health	51.52	15-Sep-26	health purchase	Cash
+107	1	Education	115.21	04-Sep-26	education purchase	UPI
+108	1	Dining	$9.27	08-Sep-26	dining purchase	Debit Card
+109	1	 Utilities 	88.69	11-09-2026	utilities purchase	Debit Card
+110	1	GROCERIES	48.57	September 19, 2026	groceries purchase	UPI
+111	1	Dining	$22.87	19-Sep-26	dining purchase	Debit Card
+112	1	Dining	$12.65	September 01, 2026	dining purchase	Cash
+113	1	Utilities	81.44	23-Sep-26	utilities purchase	Credit Card
+114	1	Groceries	37.06	08-Sep-26	groceries purchase	UPI
+115	2	Rent	2292.9	April 01, 2026	rent purchase	Cash
+116	2	Utilities	84.65	02-04-2026	utilities purchase	Debit Card
+117	2	Health	60.55	03-04-2026	health purchase	Credit Card
+118	2	Dining	$49.22	April 09, 2026	dining purchase	Cash
+119	2	Education	82.82	April 07, 2026	education purchase	UPI
+120	2	Transport	$14.77	24-Apr-26	transport purchase	Debit Card
+121	2	Education	$95.38	08-Apr-26	education purchase	UPI
+122	2	Education	$96.60	April 26, 2026	education purchase	Cash
+123	2	Shopping	110.78	April 07, 2026	shopping purchase	Credit Card
+124	2	Utilities	96.7	April 04, 2026	utilities purchase	Cash
+125	2	Shopping	$80.71	12-04-2026	shopping purchase	Cash
+126	2	Shopping	113.9	14-04-2026	shopping purchase	Debit Card
+127	2	Education	54.34	28-04-2026	education purchase	UPI
+128	2	Groceries	35.4	April 22, 2026	groceries purchase	Cash
+129	2	Utilities	$61.47	April 02, 2026	utilities purchase	Cash
+130	2	 Shopping 	58.31	24-Apr-26	shopping purchase	Credit Card
+131	2	Health	25.58	26-04-2026	health purchase	Credit Card
+132	2	Utilities	92.7	08-04-2026	utilities purchase	UPI
+133	2	Dining	$27.33	07-04-2026	dining purchase	UPI
+134	2	Rent	$2,292.90	01-05-2026	rent purchase	Debit Card
+135	2	Education	45.88	May 05, 2026	education purchase	UPI
+136	2	Shopping	$39.53	06-May-26	shopping purchase	Credit Card
+137	2	 Entertainment 	39.7	15-May-26	entertainment purchase	UPI
+138	2	Dining	40.06	28-May-26	dining purchase	Cash
+139	2	Utilities	119.93	May 15, 2026	utilities purchase	UPI
+140	2	Utilities	138.28	02-05-2026	utilities purchase	UPI
+141	2	Groceries	51.22	May 03, 2026	groceries purchase	Debit Card
+142	2	DINING	18.13	06-05-2026	dining purchase	Cash
+143	2	Shopping	$6.04	May 16, 2026	shopping purchase	Debit Card
+144	2	Education	98.03	07-May-26	education purchase	Credit Card
+145	2	Shopping	45.61	02-May-26	shopping purchase	UPI
+146	2	Transport	20.85	13-May-26	transport purchase	UPI
+147	2	Groceries	$35.82	13-May-26	groceries purchase	Credit Card
+148	2	Entertainment	$32.89	26-05-2026	entertainment purchase	Debit Card
+149	2	Education	121.98	May 10, 2026	education purchase	Cash
+150	2	Shopping	74.71	23-05-2026	shopping purchase	Debit Card
+151	2	Education	85.24	May 05, 2026	education purchase	Debit Card
+152	2	Dining	17.57	10-May-26	dining purchase	Cash
+153	2	rent	2292.9	01-Jun-26	rent purchase	UPI
+154	2	Dining	9.9	02-Jun-26	dining purchase	Debit Card
+155	2	Groceries	37.71	June 24, 2026	groceries purchase	Credit Card
+156	2	 Health 	58.66	02-Jun-26	health purchase	Cash
+157	2	Groceries	71.52	19-06-2026	groceries purchase	UPI
+158	2	Education	$93.91	17-06-2026	education purchase	Cash
+159	2	Transport	34.83	02-06-2026	transport purchase	Credit Card
+160	2	Utilities	$70.01	June 28, 2026	utilities purchase	Cash
+161	2	TRANSPORT	$13.15	03-06-2026	transport purchase	Cash
+162	2	UTILITIES	$60.70	22-Jun-26	utilities purchase	Debit Card
+163	2	Dining	$21.30	June 13, 2026	dining purchase	Credit Card
+164	2	Utilities	122.57	19-Jun-26	utilities purchase	Credit Card
+165	2	Dining	20.14	June 19, 2026	dining purchase	Credit Card
+166	2	Groceries	$57.58	20-06-2026	groceries purchase	Cash
+167	2	Utilities	61.94	14-Jun-26	utilities purchase	Credit Card
+168	2	Health	83.29	09-Jun-26	health purchase	Credit Card
+169	2	Dining	$34.62	June 22, 2026	dining purchase	Credit Card
+170	2	Health	56.08	08-Jun-26	health purchase	Debit Card
+171	2	Entertainment	34.39	13-06-2026	entertainment purchase	Credit Card
+172	2	RENT	2292.9	July 01, 2026	rent purchase	Cash
+173	2	Transport	$18.45	22-Jul-26	transport purchase	Debit Card
+174	2	Entertainment	$41.69	July 15, 2026	entertainment purchase	Credit Card
+175	2	Health	48.63	25-Jul-26	health purchase	Credit Card
+176	2	Utilities	55.49	01-07-2026	utilities purchase	Debit Card
+177	2	Education	51.66	20-07-2026	education purchase	Credit Card
+178	2	Utilities	83.45	03-07-2026	utilities purchase	Cash
+179	2	dining	48.95	17-07-2026	dining purchase	Cash
+180	2	Entertainment	$37.40	05-Jul-26	entertainment purchase	Credit Card
+181	2	Health	$57.03	03-07-2026	health purchase	Cash
+182	2	Dining	33.43	July 12, 2026	dining purchase	Debit Card
+183	2	Entertainment	54.59	06-Jul-26	entertainment purchase	Credit Card
+184	2	Education	96.58	27-07-2026	education purchase	Debit Card
+185	2	Entertainment	28.84	July 20, 2026	entertainment purchase	Cash
+186	2	Groceries	61.59	22-Jul-26	groceries purchase	Credit Card
+187	2	Entertainment	$41.43	July 22, 2026	entertainment purchase	Debit Card
+188	2	Utilities	$110.72	05-Jul-26	utilities purchase	Cash
+189	2	Entertainment	37.75	July 04, 2026	entertainment purchase	Credit Card
+190	2	Utilities	$55.51	24-07-2026	utilities purchase	UPI
+191	2	Rent	2292.9	August 01, 2026	rent purchase	Cash
+192	2	Transport	11.32	August 09, 2026	transport purchase	Cash
+193	2	Entertainment	$59.76	20-Aug-26	entertainment purchase	UPI
+194	2	Dining	50.68	23-Aug-26	dining purchase	UPI
+195	2	Health	55.51	07-08-2026	health purchase	Debit Card
+196	2	Entertainment	$29.25	August 17, 2026	entertainment purchase	Cash
+197	2	Education	133.84	August 09, 2026	education purchase	UPI
+198	2	Groceries	$28.39	August 03, 2026	groceries purchase	Credit Card
+199	2	Shopping	43.16	August 27, 2026	shopping purchase	Cash
+200	2	Entertainment	44.65	02-08-2026	entertainment purchase	Debit Card
+201	2	 Groceries 	39.08	11-Aug-26	groceries purchase	UPI
+202	2	Transport	$24.95	August 21, 2026	transport purchase	Cash
+203	2	Entertainment	32.55	06-08-2026	entertainment purchase	Cash
+204	2	Education	100.13	18-08-2026	education purchase	UPI
+205	2	Shopping	112.22	18-08-2026	shopping purchase	UPI
+206	2	GROCERIES	46.36	04-08-2026	groceries purchase	UPI
+207	2	Utilities	92.88	23-08-2026	utilities purchase	Cash
+208	2	Transport	$4.50	18-Aug-26	transport purchase	UPI
+209	2	Groceries	44.27	27-08-2026	groceries purchase	UPI
+210	2	rent	2292.9	01-Sep-26	rent purchase	Cash
+211	2	Health	38.92	September 19, 2026	health purchase	Cash
+212	2	Transport	12.81	September 14, 2026	transport purchase	Debit Card
+213	2	Transport	16.22	02-Sep-26	transport purchase	Credit Card
+214	2	Entertainment	$29.99	12-Sep-26	entertainment purchase	Cash
+215	2	Groceries	$58.74	September 12, 2026	groceries purchase	Credit Card
+216	2	Dining	14.08	22-09-2026	dining purchase	Debit Card
+217	2	Dining	30.37	September 22, 2026	dining purchase	Debit Card
+218	2	Utilities	70.32	12-09-2026	utilities purchase	UPI
+219	2	Shopping	$60.17	20-09-2026	shopping purchase	Debit Card
+220	2	Transport	35.03	08-Sep-26	transport purchase	UPI
+221	2	Transport	30.38	26-Sep-26	transport purchase	UPI
+222	2	Transport	38.37	September 14, 2026	transport purchase	Cash
+223	2	groceries	42.68	September 06, 2026	groceries purchase	Cash
+224	2	Health	$42.60	26-Sep-26	health purchase	Credit Card
+225	2	Shopping	63.28	September 26, 2026	shopping purchase	UPI
+226	2	Dining	$32.91	09-Sep-26	dining purchase	UPI
+227	2	Transport	26.77	26-Sep-26	transport purchase	Credit Card
+228	2	Utilities	58.31	September 13, 2026	utilities purchase	UPI
+229	3	Rent	2078.1	01-04-2026	rent purchase	Debit Card
+230	3	Groceries	46.36	28-04-2026	groceries purchase	UPI
+231	3	Education	96.85	08-Apr-26	education purchase	UPI
+232	3	Dining	60.21	April 27, 2026	dining purchase	UPI
+233	3	Education	$146.31	12-04-2026	education purchase	Cash
+234	3	Entertainment	$22.20	27-Apr-26	entertainment purchase	Debit Card
+235	3	Dining	26.55	08-Apr-26	dining purchase	UPI
+236	3	Groceries	23.05	April 22, 2026	groceries purchase	Debit Card
+237	3	Dining	$22.91	April 13, 2026	dining purchase	Debit Card
+238	3	Health	$67.89	09-Apr-26	health purchase	Debit Card
+239	3	Utilities	104.12	25-04-2026	utilities purchase	Credit Card
+240	3	Entertainment	24.06	April 12, 2026	entertainment purchase	UPI
+241	3	Shopping	5541.6	April 22, 2026	shopping purchase	Cash
+242	3	Health	$6.32	April 01, 2026	health purchase	Cash
+243	3	Utilities	$76.75	09-04-2026	utilities purchase	Cash
+244	3	Transport	14.38	19-04-2026	transport purchase	Cash
+245	3	Entertainment	27.06	02-Apr-26	entertainment purchase	UPI
+246	3	Utilities	$62.46	April 20, 2026	utilities purchase	Cash
+247	3	 Shopping 	$67.17	12-04-2026	shopping purchase	Debit Card
+248	3	Rent	$2,078.10	01-05-2026	rent purchase	Credit Card
+249	3	Health	16.06	May 14, 2026	health purchase	Cash
+250	3	Utilities	$50.66	13-05-2026	utilities purchase	Debit Card
+251	3	Dining	$55.55	09-May-26	dining purchase	Cash
+252	3	groceries	25.69	23-05-2026	groceries purchase	UPI
+253	3	Shopping	37.1	01-05-2026	shopping purchase	Debit Card
+254	3	Dining	52.04	12-May-26	dining purchase	UPI
+255	3	Shopping	157.15	May 03, 2026	shopping purchase	Cash
+256	3	Health	$30.71	20-05-2026	health purchase	Debit Card
+257	3	HEALTH	50.79	22-May-26	health purchase	Debit Card
+258	3	Utilities	$86.83	May 24, 2026	utilities purchase	Debit Card
+259	3	Entertainment	$60.93	17-May-26	entertainment purchase	Cash
+260	3	Entertainment	20.2	22-05-2026	entertainment purchase	Credit Card
+261	3	Shopping	$62.64	11-May-26	shopping purchase	Credit Card
+262	3	Shopping	$93.32	23-05-2026	shopping purchase	UPI
+263	3	Entertainment	41.52	May 18, 2026	entertainment purchase	Credit Card
+264	3	Transport	21.24	May 07, 2026	transport purchase	Cash
+265	3	Shopping	65.99	22-May-26	shopping purchase	Debit Card
+266	3	shopping	28.75	22-05-2026	shopping purchase	Debit Card
+267	3	Rent	2078.1	June 01, 2026	rent purchase	Cash
+268	3	Transport	$22.62	20-Jun-26	transport purchase	Debit Card
+269	3	Entertainment	$31.00	June 13, 2026	entertainment purchase	Credit Card
+270	3	Groceries	48.48	June 10, 2026	groceries purchase	UPI
+271	3	Entertainment	26.67	07-06-2026	entertainment purchase	Cash
+272	3	Shopping	84.15	June 26, 2026	shopping purchase	Debit Card
+273	3	Health	85.32	June 15, 2026	health purchase	Cash
+274	3	Education	$94.66	15-06-2026	education purchase	Credit Card
+275	3	Dining	$34.22	June 17, 2026	dining purchase	Debit Card
+276	3	EDUCATION	91.59	June 26, 2026	education purchase	Debit Card
+277	3	Transport	25	22-06-2026	transport purchase	Debit Card
+278	3	Utilities	$65.57	10-06-2026	utilities purchase	Debit Card
+279	3	Health	67.91	June 03, 2026	health purchase	Cash
+280	3	Dining	28.83	June 22, 2026	dining purchase	Credit Card
+281	3	Entertainment	66.4	June 08, 2026	entertainment purchase	Credit Card
+282	3	DINING	48.88	June 05, 2026	dining purchase	UPI
+283	3	Groceries	50.79	02-Jun-26	groceries purchase	Cash
+284	3	Dining	$20.84	June 16, 2026	dining purchase	Credit Card
+285	3	Utilities	$57.75	15-06-2026	utilities purchase	Cash
+286	3	Rent	$2,078.10	01-07-2026	rent purchase	Cash
+287	3	Shopping	$105.73	21-07-2026	shopping purchase	Credit Card
+288	3	Dining	33.15	23-07-2026	dining purchase	UPI
+289	3	Shopping	84.4	July 16, 2026	shopping purchase	UPI
+290	3	Shopping	17.66	July 08, 2026	shopping purchase	UPI
+291	3	Transport	34.27	21-Jul-26	transport purchase	Debit Card
+292	3	groceries	51.82	July 25, 2026	groceries purchase	Credit Card
+293	3	Utilities	$57.79	25-07-2026	utilities purchase	Debit Card
+294	3	Shopping	$55.85	July 08, 2026	shopping purchase	Debit Card
+295	3	transport	27.64	26-Jul-26	transport purchase	Debit Card
+296	3	Education	$91.57	July 02, 2026	education purchase	Cash
+297	3	Dining	26.49	July 28, 2026	dining purchase	Cash
+298	3	Utilities	77.93	15-07-2026	utilities purchase	Credit Card
+299	3	Transport		26-Jul-26	transport purchase	Credit Card
+300	3	Education	94.58	July 22, 2026	education purchase	Cash
+301	3	Health	96.79	July 25, 2026	health purchase	Cash
+302	3	Education	13	20-Jul-26	education purchase	Debit Card
+303	3	Shopping	62.89	July 27, 2026	shopping purchase	UPI
+304	3	education	95.3	06-Jul-26	education purchase	UPI
+305	3	rent	$2,078.10	01-Aug-26	rent purchase	UPI
+306	3	Education	98.88	15-08-2026	education purchase	UPI
+307	3	 Entertainment 	$29.42	August 25, 2026	entertainment purchase	UPI
+308	3	Dining	$8.92	27-Aug-26	dining purchase	Debit Card
+309	3	Entertainment	$39.92	25-Aug-26	entertainment purchase	Credit Card
+310	3	Education	141.82	21-Aug-26	education purchase	Cash
+311	3	Dining	11.59	09-08-2026	dining purchase	Debit Card
+312	3	Education	$115.91	August 03, 2026	education purchase	UPI
+313	3	entertainment	30.07	08-08-2026	entertainment purchase	Cash
+314	3	Entertainment	34.08	11-08-2026	entertainment purchase	Debit Card
+315	3	Health	33.68	18-Aug-26	health purchase	UPI
+316	3	Utilities	73.31	05-Aug-26	utilities purchase	Debit Card
+317	3	Transport	38	08-Aug-26	transport purchase	Cash
+318	3	Shopping		23-Aug-26	shopping purchase	Credit Card
+319	3	Transport	$42.32	23-08-2026	transport purchase	UPI
+320	3	Dining	44.13	03-Aug-26	dining purchase	Cash
+321	3	 Shopping 	83.17	August 14, 2026	shopping purchase	Cash
+322	3	Health	103.6	18-08-2026	health purchase	Credit Card
+323	3	Education	103.17	14-Aug-26	education purchase	Debit Card
+324	3	Rent	$2,078.10	September 01, 2026	rent purchase	Credit Card
+325	3	Groceries	$57.42	07-Sep-26	groceries purchase	Credit Card
+326	3	Shopping	61.1	September 13, 2026	shopping purchase	Debit Card
+327	3	Groceries	$46.00	28-Sep-26	groceries purchase	Debit Card
+328	3	Shopping	49.08	16-Sep-26	shopping purchase	Debit Card
+329	3	Groceries	$59.84	12-09-2026	groceries purchase	Cash
+330	3	Entertainment	$17.33	25-Sep-26	entertainment purchase	Cash
+331	3	Shopping	93.47	September 28, 2026	shopping purchase	UPI
+332	3	Shopping	64.28	September 18, 2026	shopping purchase	UPI
+333	3	 Dining 	44.05	16-09-2026	dining purchase	Credit Card
+334	3	Dining	39.01	09-Sep-26	dining purchase	Credit Card
+335	3	Shopping	124.62	16-09-2026	shopping purchase	UPI
+336	3	Groceries	$55.96	13-Sep-26	groceries purchase	Credit Card
+337	3	Health	20.7	22-09-2026	health purchase	Debit Card
+338	3	Shopping	67.99	24-Sep-26	shopping purchase	Cash
+339	3	Transport	13.28	27-Sep-26	transport purchase	UPI
+340	3	Education	$74.45	05-09-2026	education purchase	Cash
+341	3	groceries	67.67	13-09-2026	groceries purchase	UPI
+342	3	Groceries	54.56	03-09-2026	groceries purchase	Cash
+343	4	Rent	$1,689.90	01-04-2026	rent purchase	UPI
+344	4	Shopping	49.03	05-Apr-26	shopping purchase	Cash
+345	4	Education	$59.59	06-Apr-26	education purchase	Debit Card
+346	4	Groceries	$45.49	April 09, 2026	groceries purchase	UPI
+347	4	Shopping	$33.50	11-Apr-26	shopping purchase	UPI
+348	4	Dining	21.95	15-04-2026	dining purchase	UPI
+349	4	Health	67.8	11-04-2026	health purchase	Debit Card
+350	4	Shopping	$104.66	09-Apr-26	shopping purchase	Cash
+351	4	Shopping	88.26	April 09, 2026	shopping purchase	UPI
+352	4	Utilities	34.17	April 16, 2026	utilities purchase	Cash
+353	4	Groceries	49.57	24-Apr-26	groceries purchase	Debit Card
+354	4	Groceries	46.08	12-04-2026	groceries purchase	Credit Card
+355	4	Dining	34.97	21-04-2026	dining purchase	UPI
+356	4	UTILITIES	$112.32	25-Apr-26	utilities purchase	Debit Card
+357	4	Groceries	14.05	April 25, 2026	groceries purchase	Cash
+358	4	Groceries	36.13	08-Apr-26	groceries purchase	UPI
+359	4	Dining	$37.09	27-Apr-26	dining purchase	Cash
+360	4	Groceries	21.28	20-Apr-26	groceries purchase	Credit Card
+361	4	Transport	39.76	08-Apr-26	transport purchase	UPI
+362	4	Rent	$1,689.90	01-05-2026	rent purchase	UPI
+363	4	Transport	$28.68	16-05-2026	transport purchase	Cash
+364	4	UTILITIES	$96.93	19-May-26	utilities purchase	UPI
+365	4	Dining	$23.15	May 15, 2026	dining purchase	Debit Card
+366	4	ENTERTAINMENT	47.21	25-May-26	entertainment purchase	Debit Card
+367	4	Health	86.71	06-05-2026	health purchase	Credit Card
+368	4	Utilities	84.66	25-05-2026	utilities purchase	Debit Card
+369	4	TRANSPORT	$27.34	May 10, 2026	transport purchase	Credit Card
+370	4	Utilities	85.41	19-May-26	utilities purchase	Cash
+371	4	Groceries	32.05	10-05-2026	groceries purchase	Cash
+372	4	shopping	65.57	13-05-2026	shopping purchase	Credit Card
+373	4	Dining	28.17	03-May-26	dining purchase	Debit Card
+374	4	Dining	34.6	04-May-26	dining purchase	Debit Card
+375	4	Entertainment	$50.00	May 28, 2026	entertainment purchase	Credit Card
+376	4	Utilities	58.83	May 26, 2026	utilities purchase	Credit Card
+377	4	Groceries	43.12	May 12, 2026	groceries purchase	Cash
+378	4	Shopping	114.44	22-May-26	shopping purchase	Credit Card
+379	4	Health	$41.41	03-May-26	health purchase	Debit Card
+380	4	Health	$39.44	May 01, 2026	health purchase	Credit Card
+381	4	Rent	1689.9	01-06-2026	rent purchase	Credit Card
+382	4	Shopping	76.07	27-06-2026	shopping purchase	Credit Card
+383	4	Education	115.33	04-Jun-26	education purchase	Cash
+384	4	Shopping	70.34	12-06-2026	shopping purchase	Credit Card
+385	4	Education	129.87	23-Jun-26	education purchase	UPI
+386	4	Transport	33.57	June 14, 2026	transport purchase	UPI
+387	4	Transport	$33.42	24-Jun-26	transport purchase	UPI
+388	4	Entertainment	43.31	20-Jun-26	entertainment purchase	Debit Card
+389	4	Education	$159.83	15-Jun-26	education purchase	Debit Card
+390	4	Shopping	63.85	27-06-2026	shopping purchase	Credit Card
+391	4	Entertainment	4.95	11-Jun-26	entertainment purchase	UPI
+392	4	Dining	49.25	27-06-2026	dining purchase	Cash
+393	4	Utilities	70.85	June 09, 2026	utilities purchase	UPI
+394	4	Education	93.24	June 08, 2026	education purchase	UPI
+395	4	Education	$129.29	19-06-2026	education purchase	Debit Card
+396	4	Shopping	$21.93	11-Jun-26	shopping purchase	Debit Card
+397	4	Groceries	26.23	June 16, 2026	groceries purchase	Cash
+398	4	Health		06-Jun-26	health purchase	Debit Card
+399	4	Education	66.18	07-06-2026	education purchase	Cash
+400	4	Rent	1689.9	01-Jul-26	rent purchase	Debit Card
+401	4	Health	$70.99	July 26, 2026	health purchase	UPI
+402	4	Entertainment	42.86	11-Jul-26	entertainment purchase	UPI
+403	4	Entertainment	$39.14	July 20, 2026	entertainment purchase	Cash
+404	4	Entertainment	13.81	18-Jul-26	entertainment purchase	Cash
+405	4	Groceries	$10.35	July 17, 2026	groceries purchase	Debit Card
+406	4	Dining	30.65	July 03, 2026	dining purchase	Debit Card
+407	4	Dining	$24.34	July 24, 2026	dining purchase	Cash
+408	4	Shopping	$83.78	16-07-2026	shopping purchase	Cash
+409	4	Dining	38.42	23-07-2026	dining purchase	UPI
+410	4	Education	94.15	21-07-2026	education purchase	UPI
+411	4	Education	$112.80	15-Jul-26	education purchase	Cash
+412	4	Groceries	$48.44	03-Jul-26	groceries purchase	UPI
+413	4	Entertainment	$42.95	08-Jul-26	entertainment purchase	Credit Card
+414	4	Shopping	$48.86	July 23, 2026	shopping purchase	Debit Card
+415	4	Dining	27.84	10-Jul-26	dining purchase	UPI
+416	4	Health	$64.92	16-07-2026	health purchase	Credit Card
+417	4	Health	80.51	14-07-2026	health purchase	Cash
+418	4	Health	$50.16	July 12, 2026	health purchase	UPI
+419	4	Rent	1689.9	August 01, 2026	rent purchase	Cash
+420	4	Education	105.64	09-Aug-26	education purchase	Debit Card
+421	4	Entertainment	31.01	August 09, 2026	entertainment purchase	Cash
+422	4	Dining	$28.59	04-08-2026	dining purchase	Credit Card
+423	4	Dining	$39.95	11-08-2026	dining purchase	Cash
+424	4	Utilities	$40.14	24-08-2026	utilities purchase	Credit Card
+425	4	Transport	$12.04	07-08-2026	transport purchase	UPI
+426	4	Dining	$12.21	August 24, 2026	dining purchase	UPI
+427	4	Education	19.99	09-Aug-26	education purchase	Credit Card
+428	4	Entertainment	$24.83	04-Aug-26	entertainment purchase	Debit Card
+429	4	Dining	38.99	August 10, 2026	dining purchase	Debit Card
+430	4	Dining	26.58	12-Aug-26	dining purchase	Debit Card
+431	4	Transport	$26.98	10-08-2026	transport purchase	UPI
+432	4	Groceries	61.34	August 23, 2026	groceries purchase	UPI
+433	4	Transport	38.28	August 09, 2026	transport purchase	Debit Card
+434	4	Groceries	43.96	02-08-2026	groceries purchase	Cash
+435	4	Entertainment	$55.30	23-Aug-26	entertainment purchase	Debit Card
+436	4	Transport	25.92	August 21, 2026	transport purchase	Cash
+437	4	Education	$64.88	04-Aug-26	education purchase	Debit Card
+438	4	Rent	$1,689.90	01-09-2026	rent purchase	Cash
+439	4	Groceries	36.08	19-Sep-26	groceries purchase	UPI
+440	4	Entertainment	12.79	September 16, 2026	entertainment purchase	Debit Card
+441	4	Education	63.36	September 15, 2026	education purchase	Debit Card
+442	4	Health	51.05	06-Sep-26	health purchase	Credit Card
+443	4	Groceries	$57.05	September 09, 2026	groceries purchase	Debit Card
+444	4	Education	141.62	04-Sep-26	education purchase	Cash
+445	4	UTILITIES	$52.36	September 13, 2026	utilities purchase	Credit Card
+446	4	Education	$101.78	September 03, 2026	education purchase	Debit Card
+447	4	Groceries	29.39	September 05, 2026	groceries purchase	Debit Card
+448	4	Transport	$29.75	26-Sep-26	transport purchase	UPI
+449	4	Entertainment	33.03	September 03, 2026	entertainment purchase	Credit Card
+450	4	Dining	8.03	September 04, 2026	dining purchase	Cash
+451	4	Shopping	$97.85	20-Sep-26	shopping purchase	Debit Card
+452	4	Dining	22.74	25-Sep-26	dining purchase	UPI
+453	4	Shopping	53.98	15-09-2026	shopping purchase	Debit Card
+454	4	EDUCATION	57.91	10-Sep-26	education purchase	Credit Card
+455	4	Shopping	50.37	10-Sep-26	shopping purchase	Cash
+456	4	Groceries	51.42	September 20, 2026	groceries purchase	UPI
+457	5	Rent	1679.4	01-04-2026	rent purchase	Debit Card
+458	5	Utilities	$76.22	25-Apr-26	utilities purchase	Cash
+459	5	Dining	33.94	April 21, 2026	dining purchase	Debit Card
+460	5	Dining	34.34	09-Apr-26	dining purchase	Debit Card
+461	5	Utilities	106.41	April 06, 2026	utilities purchase	Credit Card
+462	5	Dining	25.89	April 06, 2026	dining purchase	Credit Card
+463	5	Utilities	50.46	April 06, 2026	utilities purchase	Debit Card
+464	5	 Groceries 	$61.01	14-04-2026	groceries purchase	UPI
+465	5	Education	80.06	April 23, 2026	education purchase	Credit Card
+466	5	Education	$123.44	10-Apr-26	education purchase	Credit Card
+467	5	Groceries	50.75	08-Apr-26	groceries purchase	Credit Card
+468	5	 Entertainment 	$33.03	April 23, 2026	entertainment purchase	Credit Card
+469	5	Entertainment	40.23	April 23, 2026	entertainment purchase	Cash
+470	5	Education	148.53	April 03, 2026	education purchase	Debit Card
+471	5	Dining	54.92	09-04-2026	dining purchase	Cash
+472	5	Dining	30.83	April 14, 2026	dining purchase	Cash
+473	5	Utilities	83.2	18-04-2026	utilities purchase	Debit Card
+474	5	Dining	$42.91	April 21, 2026	dining purchase	Credit Card
+475	5	Transport	$16.54	09-Apr-26	transport purchase	UPI
+476	5	Rent	1679.4	01-05-2026	rent purchase	Credit Card
+477	5	Transport	28.33	May 03, 2026	transport purchase	Credit Card
+478	5	Groceries	$44.61	May 06, 2026	groceries purchase	Credit Card
+479	5	Entertainment	39.71	May 20, 2026	entertainment purchase	Credit Card
+480	5	Entertainment	22.5	May 15, 2026	entertainment purchase	UPI
+481	5	Utilities	$48.21	15-May-26	utilities purchase	Cash
+482	5	Entertainment	3.91	23-05-2026	entertainment purchase	UPI
+483	5	Shopping	$36.48	May 09, 2026	shopping purchase	Debit Card
+484	5	Education	76.24	15-05-2026	education purchase	Credit Card
+485	5	Utilities	74.14	20-05-2026	utilities purchase	UPI
+486	5	Groceries	74.06	May 14, 2026	groceries purchase	Debit Card
+487	5	Health	87.65	May 20, 2026	health purchase	UPI
+488	5	Entertainment	20.57	01-05-2026	entertainment purchase	Credit Card
+489	5	Utilities	86.95	08-05-2026	utilities purchase	Credit Card
+490	5	Groceries	$38.89	25-05-2026	groceries purchase	Debit Card
+491	5	Entertainment	30.73	19-May-26	entertainment purchase	UPI
+492	5	Groceries	47.78	25-May-26	groceries purchase	Credit Card
+493	5	Transport	$31.19	16-May-26	transport purchase	Debit Card
+494	5	Education	79.82	09-05-2026	education purchase	UPI
+495	5	Rent	$1,679.40	01-Jun-26	rent purchase	UPI
+496	5	Transport	35.64	June 19, 2026	transport purchase	Debit Card
+497	5	Shopping	35.74	21-06-2026	shopping purchase	UPI
+498	5	Education	90.19	03-Jun-26	education purchase	UPI
+499	5	Education	$167.93	June 12, 2026	education purchase	Credit Card
+500	5	Shopping	$76.69	June 11, 2026	shopping purchase	Credit Card
+501	5	HEALTH	$95.83	22-Jun-26	health purchase	Credit Card
+502	5	Utilities	81.83	June 28, 2026	utilities purchase	Debit Card
+503	5	Transport	$30.81	June 11, 2026	transport purchase	Cash
+504	5	Shopping	68.3	23-06-2026	shopping purchase	UPI
+505	5	Education	84.89	June 10, 2026	education purchase	Debit Card
+506	5	Shopping	$46.62	27-06-2026	shopping purchase	Cash
+507	5	Groceries	51.45	June 15, 2026	groceries purchase	Cash
+508	5	 Utilities 	62.97	11-06-2026	utilities purchase	Debit Card
+509	5	Entertainment	44.98	June 11, 2026	entertainment purchase	Cash
+510	5	Utilities	$101.71	25-Jun-26	utilities purchase	Credit Card
+511	5	Shopping	81	June 28, 2026	shopping purchase	Debit Card
+512	5	Groceries	40.71	22-Jun-26	groceries purchase	UPI
+513	5	 Education 	103.62	June 14, 2026	education purchase	Credit Card
+514	5	RENT	1679.4	01-Jul-26	rent purchase	UPI
+515	5	Groceries	$40.37	07-Jul-26	groceries purchase	Cash
+516	5	Health	83.39	20-07-2026	health purchase	Credit Card
+517	5	Education	35.06	21-Jul-26	education purchase	UPI
+518	5	EDUCATION	79.93	July 25, 2026	education purchase	Debit Card
+519	5	 Groceries 	$15.14	07-Jul-26	groceries purchase	Cash
+520	5	Entertainment	$12.57	July 18, 2026	entertainment purchase	UPI
+521	5	Transport	$38.64	10-Jul-26	transport purchase	Cash
+522	5	Education	116.86	July 23, 2026	education purchase	UPI
+523	5	Education	68.42	July 04, 2026	education purchase	Debit Card
+524	5	Groceries	22.46	July 21, 2026	groceries purchase	Credit Card
+525	5	Dining	$3.00	July 23, 2026	dining purchase	UPI
+526	5	Transport	19.57	July 10, 2026	transport purchase	Cash
+527	5	Groceries	81.31	18-Jul-26	groceries purchase	Debit Card
+528	5	Shopping	83.05	July 03, 2026	shopping purchase	Credit Card
+529	5	DINING	$23.29	27-Jul-26	dining purchase	Cash
+530	5	 Utilities 	$89.30	15-07-2026	utilities purchase	Debit Card
+531	5	Utilities	$48.78	21-07-2026	utilities purchase	Cash
+532	5	Transport	22.03	16-Jul-26	transport purchase	Debit Card
+533	5	Rent	1679.4	August 01, 2026	rent purchase	Credit Card
+534	5	Entertainment	$36.49	17-Aug-26	entertainment purchase	Credit Card
+535	5	Entertainment	33.71	14-08-2026	entertainment purchase	Cash
+536	5	Education	113.72	16-Aug-26	education purchase	Debit Card
+537	5	Dining	34.14	15-Aug-26	dining purchase	UPI
+538	5	Transport	31.68	August 13, 2026	transport purchase	Credit Card
+539	5	Dining	$21.74	20-08-2026	dining purchase	UPI
+540	5	Transport	33.98	August 28, 2026	transport purchase	UPI
+541	5	Utilities	$112.58	August 09, 2026	utilities purchase	Cash
+542	5	SHOPPING	$40.90	11-Aug-26	shopping purchase	Cash
+543	5	Entertainment	21.68	27-Aug-26	entertainment purchase	Cash
+544	5	Groceries	65.04	10-Aug-26	groceries purchase	Debit Card
+545	5	Entertainment	32.13	27-Aug-26	entertainment purchase	Credit Card
+546	5	Education	132.11	August 28, 2026	education purchase	Credit Card
+547	5	Transport	$20.57	August 15, 2026	transport purchase	UPI
+548	5	Education	$133.65	12-Aug-26	education purchase	Cash
+549	5	Health	63.29	18-Aug-26	health purchase	Debit Card
+550	5	Shopping	77.75	15-08-2026	shopping purchase	Credit Card
+551	5	Health	99.12	August 28, 2026	health purchase	Debit Card
+552	5	RENT	$1,679.40	September 01, 2026	rent purchase	Cash
+553	5	Dining	25.66	September 23, 2026	dining purchase	Cash
+554	5	Dining	18.71	19-Sep-26	dining purchase	Credit Card
+555	5	Shopping	56.54	08-Sep-26	shopping purchase	UPI
+556	5	Shopping	$83.57	02-Sep-26	shopping purchase	UPI
+557	5	Health	$20.86	24-09-2026	health purchase	Cash
+558	5	Education	109.12	23-Sep-26	education purchase	Cash
+559	5	Shopping	53.84	13-09-2026	shopping purchase	UPI
+560	5	Transport	$36.48	16-Sep-26	transport purchase	Cash
+561	5	Groceries	9.09	September 05, 2026	groceries purchase	Credit Card
+562	5	Health	40.34	28-09-2026	health purchase	Credit Card
+563	5	 Utilities 	46.27	28-Sep-26	utilities purchase	Debit Card
+564	5	Education	65.21	04-Sep-26	education purchase	UPI
+565	5	Education	97.43	September 01, 2026	education purchase	Cash
+566	5	Transport	$23.21	14-Sep-26	transport purchase	Debit Card
+567	5	Transport	22.47	September 03, 2026	transport purchase	Credit Card
+568	5	Education	$85.22	26-Sep-26	education purchase	UPI
+569	5	Entertainment	38.05	11-09-2026	entertainment purchase	Credit Card
+570	5	Shopping	39.74	21-09-2026	shopping purchase	Cash
+267	3	Rent	2078.1	June 01, 2026	rent purchase	Cash
+489	5	Utilities	86.95	08-05-2026	utilities purchase	Credit Card
+419	4	Rent	1689.9	August 01, 2026	rent purchase	Cash
+495	5	Rent	$1,679.40	01-Jun-26	rent purchase	UPI
+323	3	Education	103.17	14-Aug-26	education purchase	Debit Card
