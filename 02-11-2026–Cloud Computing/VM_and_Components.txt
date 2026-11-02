@@ -1,0 +1,53 @@
+1. What is a Virtual Machine?
+A Virtual Machine (VM) is a software-based computer that behaves like a physical computer and provides virtualized resources such as CPU, RAM, storage and networking.
+
+In simple words:
+A Virtual Machine is a computer created virtually inside a physical computer.
+
+It can have:
+Its own CPU allocation.
+Its own RAM allocation.
+Its own storage.
+Its own operating system.
+Its own applications.
+
+
+       PHYSICAL SERVER
+       (Hardware)
+             |
+       HYPERVISOR
+             |
+     -------------------
+     |        |        |
+    VM 1     VM 2     VM 3
+     |        |        |
+   Windows   Linux   Windows
+     |        |        |
+   App A    App B    App C
+
+
+
+
+
+2. WHAT ARE THE COMPONENTS OF AZURE VM?
+An Azure VM is not just a virtual computer.
+
+Several Azure resources work together to make the VM operational.
+
+
+1 Operating System (OS)
+2 CPU – Central Processing Unit
+3 RAM – Random Access Memory
+4 Storage – Disks
+5 Network Interface Card (NIC)
+6 Virtual Network (VNet)
+7 IP Address
+8 Availability Zones
+
+
+
+
+
+
+
+
