@@ -1,0 +1,74 @@
+1. What is Cloud Computing?
+Cloud Computing is the delivery of computing services such as servers, storage, databases, networking and software over the internet.
+
+Instead of purchasing and maintaining physical hardware, users can access computing resources from cloud providers and pay for the resources they use.
+
+Examples:
+Google Drive
+Gmail
+Microsoft Azure
+Amazon Web Services (AWS)
+
+
+
+2. What is Azure Cloud?
+Microsoft Azure is a cloud computing platform developed by Microsoft.
+
+It provides various cloud services such as:
+Computing
+Storage
+Networking
+Databases
+
+Examples of Azure Services:
+Azure Virtual Machines
+Azure Blob Storage
+
+
+
+3. Advantages of Cloud Computing
+Cost Efficiency: Reduces the need to purchase expensive physical infrastructure.
+Scalability: Allows users to increase or decrease resources according to requirements.
+Flexibility: Cloud resources can be accessed from different locations through the internet.
+High Availability: Helps applications remain accessible with minimal downtime.
+Disaster Recovery: Helps recover data and applications after unexpected failures.
+Security: Provides security features such as encryption and access management.
+
+
+
+
+4. What are IaaS, PaaS and SaaS?
+4.1 IaaS – Infrastructure as a Service
+IaaS provides virtualized computing resources such as servers, storage and networking over the internet.
+
+The cloud provider manages the physical infrastructure, while customers manage the operating system, applications and data.
+
+Examples:
+Azure Virtual Machines
+Amazon EC2
+Google Compute Engine
+
+
+4.2 PaaS – Platform as a Service
+PaaS provides a platform for developing, testing, deploying and managing applications without managing the underlying infrastructure.
+
+Developers can focus on application development instead of server management.
+Examples:
+
+Azure App Service
+Google App Engine
+AWS Elastic Beanstalk
+
+
+4.3 SaaS – Software as a Service
+SaaS provides ready-to-use software applications over the internet.
+
+Users can access applications without installing or maintaining the underlying infrastructure.
+
+Examples:
+Gmail
+Microsoft 365
+Google Docs
+Salesforce
+
+
